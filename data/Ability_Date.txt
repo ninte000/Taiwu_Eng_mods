@@ -1,0 +1,31 @@
+#,0,1,2,3,99
+0,Tempered Sharpness,0,1,0,Tempered Sharpness - You fought against beasts in the Valley as a child， increasing your base Strength to at least 90.
+1,React From Danger,0,1,0,React From Danger - You learned to sense threats while training in the Valley， allowing you to react quickly. Increases your base Agility to at least 90。
+2,Fragrance From Cold,0,1,1,Fragrance from cold just like a plum flower - You have grown used to the loneliness of the Valley，increasing your base Will to at least 90。
+3,Pure And Natural,0,1,1,Pure and natural - You've grown up naturally and with no major injuries or defects， increasing your base Constitution to at least 90。
+4,Adaptability To Change,0,1,2,Adaptability to change - You always trained at diverse places in the Valley，increasing your base Vitality to at least 90。
+5,Think In Peace,0,1,2,Think in peace and gain understanding - You have had more time to to yourself to contemplate life's mysteries while living by yourself，increasing your base Comprehension to at least 90。
+6,The Secret Friend,0,2,3,The Secret Friend - You have an inseperable childhood friend. Adds a starting party member of the opposite gender。
+7,Narcissus In Dream,0,2,3,Narcissus in dream - You are extremely attractive.
+8,White Forehead Snake,0,3,5,White forehead snake - You played with a White Forehead snake every day，you gain 1 extra point of Pure essence 。
+9,Eaten Ganoderma And Jade,0,3,5,Eaten Ganoderma and Jade - You always ate Ganoderma and Jade， the blessings of the Earth。Your character has no negative traits。
+100,Collections,1,1,0,Collections - You've collected many resources during your time in the Valley，gain a random amount of resource boxes。
+101,Ten Pieces Of Gold,1,1,0,Ten pieces of gold - Your initial money becomes 10K。
+102,Brocade Of Swaddle,1,1,1,Brocade of swaddle，Your childhood swaddle was a brocade stained with blood，perhaps from your parents，you start with a Grade 5 clothes。
+103,Wine,1,1,1,Wine，the older the better - You start with Grade 4 to 6 wine。
+104,Horse Riding,1,1,2,Horse riding - You have a steed that you raised from a young age，You start with a Grade 5 horse。
+105,Mud Sealed Ancient Pottery,1,1,2,Mud sealed ancient pottery - You start with a Grade 4 Cricket jar。
+106,Weird Stuff From Strange Cave,1,2,3,Weird stuff from strange cave - You start with some Grade 4 poisons。
+107,Drug In Ancient Furnace,1,2,3,Drug in ancient furnace - You start with some Grade 4 medicine。
+108,Family Treasure,1,3,5,Family treasure，meaningful - You have a family treasure from your parents，You gain a random God Grade 1 treasure。
+109,Prosperity Gospel,1,3,5,Prosperity gospel，Increase building upper limit 10 of TaiWu village。
+200,Artistic,2,1,0,Natural artist - Increases your talent for the Music，Chess，Literature， and Painting skills。
+201,Follow The Call From Nature,2,1,0,Follow the call from nature - Increases your talent for the Buddhism，Taoism，Appreciation， and Cooking skills。
+202,Astrology And Witchcraft,2,1,1,Astrology and Witchcraft - Increases your talent for the Medicine，Toxicology，Astronomy， and Lore skills。
+203,Creativity,2,1,1,Creativity，Increases your talent for the Smithing，Carpentry，Craft， and Weave skills。
+204,Potential Radiance,2,1,2,Potential Radiance - Increases your Success Rate for breakthroughs in the Artistic and Crafting Talents，+20 points of Patience and Fortitude。
+205,Convergence Of Sharp Blade,2,1,2,Convergence of sharp blade - Increases your Success Rate for breakthroughs for Combat and Inner Art Skills，+20 points of Patience and Fortitude。
+206,Treasure From Nature,2,2,3,Treasure from nature - You start with some Grade 3 raw materials。
+207,Prepare Your Tools,2,2,3,Prepare your tools - You start with some random Grade 4 tools。
+208,Superhuman Gifts,2,3,5,Superhuman gifts - Increase your talent for InnerArts，Stunts，and Footwork skills。
+209,Ancient Grave,2,3,5,Ancient Grave - You transcribed a secret book from an ancient grave，you gain a Super Grade 3 skill book。

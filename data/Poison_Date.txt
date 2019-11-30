@@ -1,0 +1,7 @@
+#,0,99,1,2
+0,Acritoxin,Acritoxin，being the most potent，unhinges a mind and overwhelms a man\nIt triggers when a certain number of Movements are made，which generates Pyrotoxin and deals External damage depending on its amount。,3,20008
+1,Umbritoxin,Umbritoxin，mounts with latent intervals，oppressive and protracted\nIt triggers when a certain number of styles is collected，which generates Cryotoxin and deals Internal damage depending on its amount。,2,20006
+2,Cryotoxin,Cryotoxin，chills through the meridians，and halts the circulation\nIt triggers when inhale reduces，which generates Oneirotoxin and worsens some Internal injury depending on its amount。,5,20005
+3,Pyrotoxin,Pyrotoxin，scorches every orifice over and over\nIt triggers when Stance reduces，which generates Necrotoxin and worsens some External injury depending on its amount。,4,20010
+4,Necrotoxin,Necrotoxin，infiltrates deep into the spinal cord，gnawing away flesh and blood\nIt triggers when healing External injury，which generates Acritoxin and reduces the healing effect。,0,20004
+5,Oneirotoxin,Oneirotoxin，lets the victim dream away，befuddled and knowing no waking\nIt triggers when healing Internal injury，which generates Umbritoxin and reduces the healing effect。,1,20007

@@ -1,0 +1,21 @@
+#,0
+0,None
+1,Avatar of XiangShu
+2,Presence of Xiangshu
+3,Zizhu avatar
+101,Return to Innocence
+102,Storm Swiftness
+103,Myriads
+104,Dragon-like Carving
+105,Finger of Hades
+106,Omnidirectional Kick
+107,Shadow Sneak
+108,Nameless Sword
+109,Murderous Mara
+110,Symbol of Sky
+111,Unprecedented One
+112,Dragon Treasure
+113,Heavenly Divine
+114,Ragnarok
+115,Master of Wulin
+116,Cricket Overlord

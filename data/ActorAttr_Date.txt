@@ -1,0 +1,70 @@
+#,0,1,98,99
+0,STR,1,12,C_20002Strength represent muscle power and explosiveness…C_D\n\n·Strength declines as character gets older past their peak\n·Improve efficiency with weapons that require Strength\n·Improve efficiency with martial arts that require Strength\n·The points of Strength that over C_2000350C_D will add to「Might Attack」as accuracy bonus\n·「Might Attack」can be resolved by enemy's「Diversion」\n·Increase character weight limit to equip heavier equipment before their speed get dramatically lowered by being encumbered in battle
+1,CON,1,16,C_20002Constitution represent external physical toughness…C_D\n\n·Constitution declines as character gets older past their peak\n·Improve efficiency with martial arts that require Constitution\n·Increase「External HP」
+2,AGI,1,17,C_20002Agility represent dexterity、reflex and body coordination…C_D\n\n·Agility declines as character gets older past their peak\n·Improve efficiency with weapons that require Agility\n·Improve efficiency with martial arts that require Agility\n·The points of Agility that over C_2000350C_D will add to「Swiftness Attack」as accuracy bonus\n·「Swiftness Attack」can be resolved by enemy's「Evasion」
+3,VIT,1,18,C_20002Vitality represent your body structure，quality of bone and blood…C_D\n\n·Vitality declines during middle age，Increases during young and older age\n·Improve efficiency with martial arts that require Vitality\n·Increase「Internal HP」
+4,COM,1,6,C_20002Comprehension represent ability to learn and understand…C_D\n\n·Comprehension declines during middle age，Increases during young and older age\n·Improve efficiency with martial arts that require Comprehension\n·Increase maximum Comprehension point while reading books\n·Increase your Success Rate of breakthrough the bottleneck of Artistry and Skill
+5,WIL,1,20,C_20002Will represent ability to concentrate and stability of mind…C_D\n\n·Will increases as character gets older\n·Improve efficiency with weapons that require Will\n·Improve efficiency with martial arts that require Will\n·The points of Will that over C_2000350C_D will add to「Finesse Attack」as accuracy bonus\n·「Finesse Attack」can be resolved by enemy's「Parry」
+6,PhD,1,21,C_20002Physical Defense represent character's protection from external injuries and physical form of attacks…C_D\n\n·Physical Defense declines as character gets older\n·Reduce「External Injuries」received\n·Directly oppose opponent's ability to「Physical Penetration」
+7,QiD,1,22,C_20002Qi Defense represent character's protection from internal injuries and Qi attack…C_D\n\n·Qi Defense increases as character gets older\n·Reduce「Internal injuries」received\n·Directly oppose opponent's ability to「Qi Penetration」
+8,BRE,1,19,C_20002Breath represent ability to circulate their internal breathing…，\nduring the battle，the BRE of enemy and player will interact each otherC_D\n\n·Breath declines as character gets older past their peak\n·Increases Breath can reduce the「Qi instability」continuously\n·Breath can recover the lost Forces during battle.\n·Can increase the trigger rate of following battle effects：\n-“Critical Strike”\n-“Energizing”\n-“Ultimate Healing”\n-“Ultimate Detoxing”
+9,DIV,1,13,C_20002Diversion represent one's quality to resolve Might attack…C_D\n\n·Diversion declines as character gets older\n·Ability to negate Might Attacks\n·「Might Attack」：Punch、Hack、Throw\n·Able to partially reduce damage received from martial arts if fully resolves the Might Attack portion of the attack
+10,PAR,1,14,C_20002Parry represent ability to parry an attack…C_D\n\n·Parry increase as character gets older\n·Ability to negate Finesse Attacks\n·「Finesse Attack」：Hold、Slash、Drive\n·Able to partially reduce damage received from martial arts if fully resolves the Finnesse Attack portion of the attack
+11,EVA,1,15,C_20002Evasion represent ability to evade an attack…C_D\n\n·Evasion declines as character gets older\n·Ability to negate Swiftness Attacks\n·「Swiftness Attack」：Point、Stab、Shot\n·Able to partially reduce damage received from martial arts if fully resolves the Swiftness Attack portion of the attack
+12,TIT,0,0,C_20002Title of your achievement…C_D
+13,NAME,0,4,C_20002Name…C_D\n\n·It may not be the true name of character in some situations
+14,GEN,0,5,C_20002Gender…C_D\n\n·It may not be the true gender of character in some situations
+15,FAS,0,1,C_20002Fascination…C_D\n\n·Children don't have fascination\n·Being naked will halved character's fascination\n·The evaluation of appearance from low to high：\n-Unhuman\n-Disgusting\n-Ugly\n-Ordinary\n-Outstanding\n-Jade-like\n-Mythical\n-Matchless\n-Immortal
+16,DEP,0,8,C_20002Dependency is where you home is located，either in town or sect…C_D
+17,POS,0,9,C_20002Position of character's dependency…C_D\n\n·The higher position a character holds，the harder it is to be friend with\n·Position grade from low to hight：\nC_20002GreyC_D、C_20003WhiteC_D、C_20004GreenC_D、C_20005BlueC_D、C_20006CyanC_D、C_20007VioletC_D、C_20008GoldenC_D、C_20009AmberC_D、C_20010RubyC_D
+18,STA,0,11,C_20002Standpoint represent one's living philosophy and attitude…C_D\n\n·The more different the standpoint between characters，the harder they get along\n·Different standpoint can choose different actions\n·Different standpoint results in different outcomes on the same event
+19,REP,0,10,C_20002Reputation represent how the general public views the character，does not necessarily mean the character is good or evil…C_D\n\n·Reputation will affect other character’s relationship towards you·Reputation from low to high：\n-Monstrous\n-Condemned\n-Infamous\n-Unknown or mixed\n-Known\n-Esteemed\n-Fabled
+20,MOOD,0,1,C_20002Mood…C_D\n\n·The mood of the character will affect the efficiency of work\n·Corruption from Xiangshu might find a way in when a character's mood gets too low\n·Mood level from low to high：\n-Hopeless\n-Painful\n-Depressed\n-Regular\n-Pleased\n-Joyful\n-Ecstatic
+21,REL,0,2,C_20002Relationship…C_D\n\n·The Character's Relation to you will greatly affect the character’s relationship score to you
+22,REI,0,3,C_20002Reincarnation times…C_D\n\n·A dead character’s soul will be reincarnation somewhere in the world \n·Character will gain attributes bonus from pre existence\n·Character will gain skill bonus from pre existence
+23,OFF,0,0,C_20002Offensive level in battle…C_D\n\n·Character with higher Offensive level will help you to attack enemy more often\n·The more offensive token a character has，the more accuracy bonus the character will provide you，when you cast an attack skill\n·Red tokens will cancel with blue tokens
+24,DEF,0,0,C_20002Defensive level in battle…C_D\n\n·Character with higher Defensive level will block attacks for you more often\n·The more defensive token a character has，the more DIV，PAR，EVA bonus the character will provide you，when you defend against an attack skill\n·Red tokens will cancel with blue tokens
+25,PLAN,0,0,C_20002Plan level represent the ability of a character to plan ahead…C_D\n\n·Plan points determine who goes first，going first will have an advantage\n·Choosing a battle plan will cost plan points\n·Using items before battle costs plan points\n·Revealing a topic before art debate will cost plan points\n·Red tokens will cancel with blue tokens
+26,Ext Injury,0,0,C_20002External injury represents the physical damage done to muscle and bones…C_D\n\n·External HP represent how much external damage a character can sustain\n·When the external injury exceeds external HP，the character’s lifespan will decrease at the end of each month
+27,Int Injury,0,0,C_20002Internal injury represents the Qi damage done to meridian and internal organs…C_D\n\n·Internal HP represent how much internal damage a character can sustain\n·When the internal injury exceeds internal HP，the character’s lifespan will decrease at the end of each month
+28,Lifespan,0,0,C_20002Lifespan is the remaining years a character can live…C_D\n\n·The lifespan could be reduced for various reasons\n·As the character gets older，the maximum lifespan will reduce\n·Once the lifespan reduces to C_200030C_D，the character will die at the end of the month
+29,LIKE,0,0,C_20002What items the character likes…C_D\n\n·Sending what the character likes as gift，will grant double relationship increase\n·Under normal circumstances，the character will change what they like every C_200033C_D years
+31,HATE,0,0,C_20002What items the character dislikes…C_D\n\n·Sending what the character dislikes as gift，the relationship increase will be reduced\n·Under normal circumstances，the character will change what they dislike every C_200033C_D years
+33,EXP,0,0,C_20002Experience…C_D\n\n·experience can be used to practice art、skill\n·It can also be used to breakthrough bottlenecks of art、skill
+37,AGE,0,0,C_20002Age of character…C_D\n\n·At different age，character’s「main stats」’s efficiency differs \n·At different age，character’s「defensive stats」’s efficiency differs\n·Characters have different amount of action points at different age
+501,Music,0,0,
+502,Chess,0,0,
+503,Literature,0,0,
+504,Painting,0,0,
+505,Astronomy,0,0,
+506,Appreciation,0,0,
+507,Smithing,0,0,
+508,Carpentry,0,0,
+509,Medicine,0,0,
+510,Toxicology,0,0,
+511,Weave,0,0,
+512,Craft,0,0,
+513,Taoism,0,0,
+514,Buddhism,0,0,
+515,Cooking,0,0,
+516,Lore,0,0,
+601,InnerArts,0,0,
+602,Footwork,0,0,
+603,Stunt,0,0,
+604,Fist,0,0,
+605,Finger,0,0,
+606,Kick,0,0,
+607,Hidden·Wp,0,0,
+608,Sword,0,0,
+609,Blade,0,0,
+610,Polearm,0,0,
+611,Exotic·Wp,0,0,
+612,Soft·Wp,0,0,
+613,Ranged·Wp,0,0,
+614,Melody,0,0,
+701,Metal,0,0,
+702,Wood,0,0,
+703,Water,0,0,
+704,Fire,0,0,
+705,Earth,0,0,
+706,Harmony,0,0,

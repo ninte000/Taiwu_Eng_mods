@@ -1,0 +1,8 @@
+#,0,99
+0,Flatland,Ordinary terrain and surroundings，making no difference in combat
+1,Highland,Steep and precipitous，it imposes  on every Movement of the combatants a risk of taking damage
+2,Woodland,With complex surroundings shading all directions，every Movement gives the combatants a chance to downgrade a movement token of the enemy
+3,Waters,A water-locked place with little room for movement. The forward Speed of both sides is considerably reduced when their Distance below 4.5
+4,Poky Room,A confined space that restricts most maneuvers. The backward Speed of both sides is considerably reduced when their Distance beyond 4.5
+5,Silt,A loose and bogging ground. Reduce the movement distance by both sides
+6,Pitch Black,Utter darkness blinding both sides all the time—— Give a chance of Movement failure

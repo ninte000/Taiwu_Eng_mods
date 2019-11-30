@@ -1,0 +1,55 @@
+#,0,1,2,3,4,5,6,7,8
+1,Befriend the the good,1,12,1,100,1,2,0,6
+2,Befriend the the evil,-1,12,1,100,0,0,0,24
+3,the good Sworn Brother,3,12,1,10,3,4,0,6
+4,the evil Sworn Brother,-5,12,1,10,0,0,0,24
+5,Love with the good,3,12,1,10,5,6,0,6
+6,Love with the evil,-5,12,1,10,0,0,0,24
+7,Adopt the good,3,60,0,10,7,8,0,20
+8,Adopt the evil,-5,60,0,10,0,0,0,40
+9,Adopted by the good,5,120,0,5,9,10,0,20
+10,Adopted by the evil,-10,120,0,5,0,0,0,40
+11,Helping the good,2,6,1,20,11,12,11,3
+12,Helping the evil,-2,6,1,20,0,0,0,12
+13,Teaching the good,2,6,1,20,13,14,13,3
+14,Teaching the evil,-2,6,1,20,0,0,0,12
+15,Healing the good,1,3,1,20,15,16,15,3
+16,Healing the evil,-1,3,1,20,0,0,0,12
+101,Skill Theft,-5,36,0,5,0,0,0,12
+102,Item Theft,-5,36,0,5,0,0,0,12
+103,Rob items,-5,60,0,5,0,0,0,20
+104,Grave Robbery,-5,60,0,5,0,0,0,20
+105,Poisons people,-10,60,0,5,0,0,0,20
+106,Assaults people,-10,60,0,10,0,0,0,40
+107,Detain in public,-20,240,0,100,0,0,0,30
+108,Killing in public,-25,360,0,100,0,0,0,30
+109,Fleeing,-1,6,1,50,0,0,0,12
+110,Child Bully,-5,12,1,10,0,0,0,24
+111,Bullied pregnant lady,-5,12,1,10,0,0,0,24
+112,Punish the evil,2,6,1,20,0,0,0,6
+113,Punish in public,3,6,1,20,0,0,0,6
+201,Win a duel,3,12,1,10,0,0,0,12
+202,Lose a duel,-3,12,1,10,0,0,0,12
+301,Kind actions,1,6,1,20,301,302,301,3
+302,Maliciousness,-1,6,1,10,0,0,0,12
+303,Just actions,2,6,1,20,303,304,303,3
+304,Disrespectful,-2,6,1,10,0,0,0,12
+305,Rebel actions,-1,6,1,20,305,306,305,12
+306,Carefreeness,1,6,1,10,0,0,0,3
+307,Egoist actions,-2,6,1,20,307,308,307,12
+308,Satisfactorias,2,6,1,10,0,0,0,3
+401,Untranditional love,-3,12,1,20,0,0,0,24
+402,Vulnerableness,-3,36,0,5,0,0,0,36
+403,Being Benefited,-1,36,0,5,0,0,0,36
+404,Being Reprimanded,-3,36,0,5,0,0,0,36
+405,Being Deceived,-5,36,0,5,0,0,0,36
+406,Being Threatened,-10,36,0,5,0,0,0,36
+407,Being Praised,2,6,1,10,0,0,0,3
+408,Being Derided,-2,6,1,10,0,0,0,12
+501,Conflict with the good,-2,6,1,10,501,502,0,12
+502,Conflict with the evil,2,6,1,10,0,0,0,3
+601,Good Predecessor,25,60,0,1,0,0,0,12
+602,Evil Predecessor,-25,60,0,1,0,0,0,12
+701,Swearing,-5,12,1,10,0,0,0,24
+702,Beggary,-3,12,1,20,0,0,0,24
+703,Bad doctor,-3,12,1,20,0,0,0,24

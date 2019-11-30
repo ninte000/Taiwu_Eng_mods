@@ -1,0 +1,88 @@
+#,0,1,98,99,2
+0,Uneventful,0,0,Nothing of concern,0
+24,Lesser Cold·Greater Cold,0,1,「Ore」in some places regenerated to a certain extent,0
+22,Begins of Spring·Rain Water,0,1,「Food」、「Wood」、「Herb」in some places regenerated to a certain extent,0
+20,Insects Awakening·Spring Equinox,0,1,「Food」、「Wood」、「Herb」in some places regenerated to a certain extent,0
+18,Fresh Green·Grain Rain,0,1,「Food」、「Wood」、「Herb」in some places regenerated to a certain extent,0
+16,Begins of Summer·Lesser Fullness,0,1,「Food」、「Wood」、「Textile」in some places regenerated to a certain extent,0
+14,Grain in Ear·Summer Solstice,0,1,「Food」、「Wood」、「Textile」in some places regenerated to a certain extent,0
+12,Lesser Heat·Greater Heat,0,1,「Food」、「Wood」、「Textile」in some places regenerated to a certain extent,0
+10,Begins of Autumn·End of Heat,0,1,「Food」、「Wood」、「Textile」、「Herb」in some places regenerated to a certain extent,0
+8,White Dew·Autumnal Equinox,0,1,「Food」、「Wood」、「Textile」、「Herb」in some places regenerated to a certain extent,0
+6,Cold Dew·First Frost,0,1,「Ore」、「Textile」in some places regenerated to a certain extent,0
+4,Begins of Winter·Light Snow,0,1,「Ore」in some places regenerated to a certain extent,0
+2,Heavy Snow·Winter Solstice,0,1,「Ore」in some places regenerated to a certain extent,0
+51,Resource Growth,1,2,’s | grew in scale,0
+52,Resource Expansion,1,3,’s | expanded to adjoining areas,0
+53,Construction Damage,1,4,’s | has been suffering damage，hence the shrinkage of its scale,0
+54,Construction Collapse,1,5,’s | crumbled into debris,0
+55,Construction Complete,1,6,’s | was constructed,0
+56,Product Complete,1,7,’s | finished producing the items,0
+57,Expansion Complete,1,8,’s | was successfully expanded,0
+59,Removal Complete,1,9,’s | was successfully removed,0
+60,Harvest Complete,1,10,’s | was successfully harvested,0
+61,Devastation,1,5,’s | crumbled into debris，where a gigantic fiend shows its presence striking through the rubble！,0
+101,Cricket Vibrancy,0,11,Attending the golden season，the chirping of crickets pervades hither and thither，as goes the poem“Under the window and among the tussock，into the yearning hearts and the sorrowful ears”,101
+102,New Year Bazaar,0,48,Ringing the New Year in and the old year out，merchants from every quarter are running a bustling bazaar，with the folks coming for it filling every corner,102
+201,Treasure Obtained,2,12, at | acquired the priceless |,0
+202,Windfall,3,13, at | acquired an impressive quantity of | unexpectedly,0
+203,Mischance,3,14, at | lost a considerable quantity of | unexpectedly,0
+204,A Token of Goodwill,2,15, at | presented | to MN,0
+205,Trifling Gift，Genuine Friendship,3,15, at | presented | to MN,0
+206,Sneaky Trick,2,16, at | played MN a nasty trick，resulting in MN's loss of |,0
+207,Sneaky Trick,3,16, at | played MN a nasty trick，resulting in MN's loss of some |,0
+208,Sneaky Trick,2,16, at | played MN a nasty trick，making MN's | almost lost,0
+209,Tutoring,4,17, at | taught MN the secret of |。,0
+210,Succession,9,18, assumed the role of |。,0
+211,Skill Theft,4,19, at | learnt MN’ | by skill theft,0
+212,Skill Theft,4,20, at | attempted tt learn MN’s | by skill theft，but failed,0
+213,Tutoring,4,21, at | attempted to teach MN the secret of |，but failed,0
+214,Sneaky Trick,5,16, at | attempted to play MN a nasty trick，but failed,0
+215,The Great Divide,5,22, at | passed away,0
+216,Matchless Adventure,4,23, at | obtained the secret book of | unexpectedly,0
+217,Wound Treatment,2,24, at | used | to treat MN for the injuries,0
+218,Detoxification,2,25, at | used | to remove the poison from MN,0
+219,Sneaky Trick,2,26, at | played MN a nasty trick，poisoning MN with |,0
+220,Sneaky Trick,5,27, at | attempted to poison MN，but failed,0
+221,Rancor Melted,5,28, at | forgave MN，although the two still enemies，but no longer blood feud,0
+222,Attitude Shift,5,29, at | changed the attitude towards MN，and is no longer your enemy,0
+223,Congeniality,5,30, at | felt compatible with MN after a heart-to-heart，and thus they struck up a close friendship,0
+224,Enamoured,5,31, at | fell in love with MN,0
+228,Bottomless Rancor,5,35, at | hated MN and became blood feud！,0
+229,Lamentable Parting,5,36, at | severed all affections with MN，as laments the poem——\nSuch feeling cannot be recalled again；\nit seemed long lost e'en when it was felt then！,0
+230,Estrangement,5,37, at | drifted apart from MN。All bond broken，they would inevitably go their separate ways,0
+231,Enmity Bred,5,38, at | became enemy with MN,0
+232,Fraternal Rupture,5,39, at | the bond of sworn brothers with MN is broken—that is，they shall see each other but in afterlife,0
+233,Craving No-Holds-Barred,5,40,，at | and with an overwhelming desire，attempted to rape MN，but was seen through by MN and eventually failed,0
+234,Blessed Night,5,41, at | spent the night with MN，affectionate and ardent,0
+235,Demonic Possession,5,42, at | lost to the corruption of XiangShu，eventually fallen into a vicious fanatic under His command！,0
+236,Stork Delivers a Boy,0,43,MN’s son was born！,0
+237,Stork Delivers a Girl,0,43,MN’s daughter was born！,0
+239,Last Farewell,6,45,MN merely dreamed the departed | pointing to |，as though there were a lot he（she）wants to say。Unfortunately，the great divide between life and death meaning no word can come through。In the end | had to float away in the direction pointed to…,0
+240,Item Lost,7,46,Due to excess storage，the | in the warehouse accidentally got lost…,0
+241,Item Lost,8,47,Due to excess burden，| accidentally lost the | in the bag…,0
+242,Stablising Qi,2,24, at | used | to help stablise Qi for MN,0
+243,Expecting,5,34, is at | waiting for MN…,0
+244,Appointment Broken,5,37, at | waited for MN for a long time，but MN did not turn up…,0
+245,Appointment Cancelled,5,37, at | wrote to MN to appologise for that he is too busy to meet up with MN，the appointment had to be cancelled…,0
+246,Assassination,5,22, at | perished under the assassination by Jieqingmen…,0
+247,Abnormal Neonatus,0,43,After three and a half years of expectancy，MN ultimately witnessed the baby’s arrival…,0
+248,Fallen Ones,10,42, Rumour has it that the Possessed was spotted in |C_20008（the Possessed constantly blights men and things in the area，and escalates the local Threat Level）C_D…,0
+249,Succession,9,49, assumed the role of |,0
+250,Anomaly Revealed,11,50,A spate of anomalies of the“|”Swordtomb near Taiwu Village manifested themselves，seemingly indicating the imminent burst-out of something！,0
+251,Swordtomb Breakout,11,50,A formiddable foe，self-styled as“Avatar of XiangShu”，broke through the“|”Swordtomb and marched right towards the Village！,0
+252,A Visit by the Stork,5,43, gave birth to a son at |,0
+253,A Visit by the Stork,5,43, gave birth to a daughter at |,0
+254,A Mother’s Bereavement,5,44, was physically unwell at |，and was consequently miscarried,0
+255,Recuperation,0,0,A spell of repose and refreshment in Taiwu Village relieved you and your companions of some external injuries，internal injuries，Qi instability and poisons…,0
+256,Ruthless Natural Disaster,12,51,Rumor has it that a terrible natural disaster occurred in |，C_20010|C_D people died，and C_20010|C_D locations are destroyed by disaster！,0
+257,Precious classic appeared,2,52,at |，gained the long lost precious classic named |。,0
+258,Martial Contest,13,53,A declined nobleman is holding on a huge Martial Contest to looking for a spouse for their daughter at |……,0
+1001,Mysterious bamboo,0,54,There is a purple bamboo growing on the mysterious stone near Taiwu Village。 Use the legendary sword hilts to awaken ZiZhu spirit within...,0
+1002,Mysterious Spirit ZiZhu,14,55,The possessed | at | has been caught and handcuffed to Taiwu Village by a spirit called | ，and then executed……,0
+259,Internal Junior Tournament,15,56,Rumor suggest | is holding an Internal Junior Tournament…,0
+260,Internal Veteran Tournament,16,56,Rumor suggest | is holding an Internal Veteran Tournament…,0
+261,World Martial Congress,17,57,The World Martial Congress is helding at |！,0
+262,Internal Master Tournament,18,58,Rumor suggest | is holding an Internal Master Tournament…,0
+263,Shadow Command,5,22, assasinated by JieQing at | for holding the Shadow Command…,0
+264,World Cricket Congress,13,59,The World Cricket Congress is holding at | ！,0

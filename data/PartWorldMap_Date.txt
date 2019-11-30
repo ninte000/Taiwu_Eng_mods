@@ -1,0 +1,138 @@
+#,0,91,92,101,102,100,93,94,95,96,97,98,1,10001,2,10002,3,10003,4,10004,5,10005,6,99
+0,JingCheng,0,2,1,200,101,1,6,0,5,20001,30,1,0&0,0,0&0,0,0&0,1002,0&0,1003,0&0,0,The center of wealth and power in the Central Plains. Here travel merchants and bureaucrats from all over the world.
+101,SongShan,200,1,1,260,101,1002,21,0,5,20001,30,0,0&0,101,10001&15|10005&5,0,0&0,1002,0&0,1003,0&0,0,It has a magnificent view of 72 peaks. SongShan is not only a holy place for Zen and Taoism， but also highly respected by emperors of all ages.
+1011,LuoYang,0,0,1,100,101,1002,0,0,5,20001,20,0,0&0,0,0&0,0,0&0,1002,0&0,0,0&0,0,
+1012,DaMing,0,0,1,100,101,1003,0,0,4,20001,20,0,0&0,0,0&0,0,0&0,0,0&0,1003,0&0,0,
+1013,Heng Shan,0,0,1,100,101,1002,1,0,4,20001,20,0,0&0,0,0&0,0,0&0,1002,0&0,0,0&0,0,
+1014,TaiHangShan,0,0,1,100,101,1003,1,0,4,20001,20,0,0&0,0,0&0,0,0&0,0,0&0,1003,0&0,0,
+1015,WangWuShan,0,0,1,100,101,1003,1,0,3,20001,20,0,0&0,0,0&0,0,0&0,0,0&0,1003,0&0,0,
+1016,BaoZhou,0,0,1,100,101,1002,2,0,3,20001,20,0,0&0,0,0&0,0,0&0,1002,0&0,0,0&0,0,
+1017,BianShui,0,0,1,100,101,1001,3,0,3,20001,20,0,0&0,0,0&0,1001,0&0,0,0&0,0,0&0,0,
+1,ChengDu,0,2,1,200,101,2,7,1,5,20001,30,2,0&0,0,0&0,0,0&0,1002,0&0,1003,0&0,0,Chengdu has a mild climate and a brilliant land. It is known as the “Heavenly State”.
+102,EMeiShan,200,1,1,220,101,1003,22,1,5,20001,30,0,0&0,102,10001&5|10002&5|10003&5|12002&5,1001,0&0,0,0&0,1003,0&0,0,Emei Mountain is high and beautiful.It is said that Xuanyuan Huangdi comprehended Taoism here， and it was also a place where the Samantabhadra promoted Buddhism.
+1021,ZiZhou,0,0,1,100,101,1002,2,1,5,20001,20,0,0&0,0,0&0,0,0&0,1002,0&0,0,0&0,0,
+1022,MinShan,0,0,1,100,101,1001,1,1,4,20001,20,0,0&0,0,0&0,1001,0&0,0,0&0,0,0&0,0,
+1023,QingChengShan,0,0,1,100,101,1003,1,1,4,20001,20,0,0&0,0,0&0,0,0&0,0,0&0,1003,0&0,0,
+1024,LongMenShan,0,0,1,100,101,1003,1,1,4,20001,20,0,0&0,0,0&0,0,0&0,0,0&0,1003,0&0,0,
+1025,FuJiang,0,0,1,100,101,1002,3,1,3,20001,20,0,0&0,0,0&0,0,0&0,1002,0&0,0,0&0,0,
+1026,LiShui,0,0,1,100,101,1001,3,1,3,20001,20,0,0&0,0,0&0,1001,0&0,0,0&0,0,0&0,0,
+1027,HuangLongXi,0,0,1,100,101,1001,3,1,3,20001,20,0,0&0,0,0&0,1001,0&0,0,0&0,0,0&0,0,
+2,GuiZhou,0,2,1,200,101,3,8,2,5,20001,30,3,0&0,0,0&0,1001,0&0,0,0&0,1003,0&0,0,The landscape of Guizhou is picturesque. It is known as “the best mountains and rivers in the world”.
+103,BaiLuZe,200,1,1,160,101,1003,23,2,5,20001,30,0,0&0,103,12001&10|12004&5|12005&5,1001,0&0,0,0&0,1003,0&0,0,“BaiLu”stands for “White Elk”. It is said that the rare white elks inhabited here. There are seven great waterfalls and fourteen lakes， and one secret world called“The Flowers Valley”.
+1031,YongZhou,0,0,1,100,101,1003,2,2,5,20001,20,0,0&0,0,0&0,0,0&0,0,0&0,1003,0&0,0,
+1032,ChiShui,0,0,1,100,101,1002,3,2,4,20001,20,0,0&0,0,0&0,0,0&0,1002,0&0,0,0&0,0,
+1033,LiShui,0,0,1,100,101,1001,3,2,4,20001,20,0,0&0,0,0&0,1001,0&0,0,0&0,0,0&0,0,
+1034,QiongZhou,0,0,1,100,101,1001,2,2,4,20001,20,0,0&0,0,0&0,1001,0&0,0,0&0,0,0&0,0,
+1035,MaoErShan,0,0,1,100,101,1003,1,2,3,20001,20,0,0&0,0,0&0,0,0&0,0,0&0,1003,0&0,0,
+1036,DaMingShan,0,0,1,100,101,1001,1,2,3,20001,20,0,0&0,0,0&0,1001,0&0,0,0&0,0,0&0,0,
+1037,XiangBiShan,0,0,1,100,101,1001,1,2,3,20001,20,0,0&0,0,0&0,1001,0&0,0,0&0,0,0&0,0,
+3,XiangYang,0,2,1,200,101,4,9,3,5,20001,30,4,0&0,0,0&0,0,0&0,1002,0&0,1003,0&0,0,The city is very majestic， with convenient water and land transportation. It is a stronghold since ancient times.
+104,WuDangShan,200,1,1,240,101,1002,24,3,5,20001,30,0,0&0,104,10001&10|10005&10,1001,0&0,1002,0&0,0,0&0,0,Wudang Mountain is a holy place of Taoism， one of the 72 blessed sites. Legend says that Wudang the Great Emperor was born， cultivated and even became immortal here.
+1041,JingZhao,0,0,1,100,101,1002,0,3,5,20001,20,0,0&0,0,0&0,0,0&0,1002,0&0,0,0&0,0,
+1042,KuiZhou,0,0,1,100,101,1001,2,3,4,20001,20,0,0&0,0,0&0,1001,0&0,0,0&0,0,0&0,0,
+1043,EZhou,0,0,1,100,101,1002,2,3,4,20001,20,0,0&0,0,0&0,0,0&0,1002,0&0,0,0&0,0,
+1044,HanShui,0,0,1,100,101,1002,3,3,4,20001,20,0,0&0,0,0&0,0,0&0,1002,0&0,0,0&0,0,
+1045,HuaShan,0,0,1,100,101,1003,1,3,3,20001,20,0,0&0,0,0&0,0,0&0,0,0&0,1003,0&0,0,
+1046,JiuGongShan,0,0,1,100,101,1001,1,3,3,20001,20,0,0&0,0,0&0,1001,0&0,0,0&0,0,0&0,0,
+1047,MuLanShan,0,0,1,100,101,1001,1,3,3,20001,20,0,0&0,0,0&0,1001,0&0,0,0&0,0,0&0,0,
+4,TaiYuan,0,2,1,200,101,5,10,4,5,20001,30,5,0&0,0,0&0,0,0&0,1002,0&0,1003,0&0,0,Taiyuan is surrounded by mountains on three sides and is extremely magnificent. It is the first major town in the north of the Central Plains.
+105,DaXiaoYuanShan,200,1,1,280,101,1003,25,4,5,20001,30,0,0&0,105,10001&10|12002&10,1001,0&0,0,0&0,1003,0&0,0,The Big YuanShan Mountain is vast and has many Taoist temples，while the Small YuanShan Mountain has beautiful scenery and many Buddhist temples. The two mountains are closely connected， but they are different in the scenery. They have the reputation of “the soul of all mountains”.
+1051,DaTong,0,0,1,100,101,1002,0,4,5,20001,20,0,0&0,0,0&0,0,0&0,1002,0&0,0,0&0,0,
+1052,YinShan,0,0,1,100,101,1001,1,4,4,20001,20,0,0&0,0,0&0,1001,0&0,0,0&0,0,0&0,0,
+1053,WuTaiShan,0,0,1,100,101,1002,1,4,4,20001,20,0,0&0,0,0&0,0,0&0,1002,0&0,0,0&0,0,
+1054,ZhenDing,0,0,1,100,101,1003,0,4,4,20001,20,0,0&0,0,0&0,0,0&0,0,0&0,1003,0&0,0,
+1055,HeZhong,0,0,1,100,101,1002,0,4,3,20001,20,0,0&0,0,0&0,0,0&0,1002,0&0,0,0&0,0,
+1056,FenShui,0,0,1,100,101,1001,3,4,3,20001,20,0,0&0,0,0&0,1001,0&0,0,0&0,0,0&0,0,
+1057,HeLanShan,0,0,1,100,101,1001,1,4,3,20001,20,0,0&0,0,0&0,1001,0&0,0,0&0,0,0&0,0,
+5,GuangZhou,0,2,1,200,101,6,11,5,5,20001,30,6,0&0,0,0&0,0,0&0,1002,0&0,1003,0&0,0,GuangZhou has three towns-- Ya， Zi and Luo. This is an important city for overseas businessmen to travel.
+106,LianHuaShan,200,1,1,260,101,1002,26,5,5,20001,30,0,0&0,106,10001&5|10005&5|12003&10,0,0&0,1002,0&0,1003,0&0,0,depending on legend， Lianhua Mountain is the embodiment of Baolian， the seat of the Guanyin Bodhisattva in the South China Sea. Because of the specificity of mountains and rocks， since ancient times， there have been countless stone pickers in the Lianhua Mountain. After years of age， there are many megaliths， strange peaks and other strange scenes， which are amazing.
+1061,NanHai,0,0,1,100,101,1002,4,5,5,20001,20,0,0&0,0,0&0,0,0&0,1002,0&0,0,0&0,0,
+1062,HuiZhou,0,0,1,100,101,1002,2,5,4,20001,20,0,0&0,0,0&0,0,0&0,1002,0&0,0,0&0,0,
+1063,LuoFuShan,0,0,1,100,101,1001,1,5,4,20001,20,0,0&0,0,0&0,1001,0&0,0,0&0,0,0&0,0,
+1064,MeiZhou,0,0,1,100,101,1002,2,5,4,20001,20,0,0&0,0,0&0,0,0&0,1002,0&0,0,0&0,0,
+1065,ChaoZhou,0,0,1,100,101,1001,2,5,3,20001,20,0,0&0,0,0&0,1001,0&0,0,0&0,0,0&0,0,
+1066,NanLing,0,0,1,100,101,1003,1,5,3,20001,20,0,0&0,0,0&0,0,0&0,0,0&0,1003,0&0,0,
+1067,BaiYunShan,0,0,1,100,101,1001,1,5,3,20001,20,0,0&0,0,0&0,1001,0&0,0,0&0,0,0&0,0,
+6,QingZhou,0,2,1,200,101,7,12,6,5,20001,30,7,0&0,0,0&0,1001,0&0,0,0&0,1003,0&0,0,One of the ancient “nine states”， an important town of the East. It is believed that “East is effected by wood element， and the woods’ color is green”， it is called QingZhou--the green state.
+107,RanShan,200,1,1,160,101,1003,27,6,5,20001,30,0,0&0,107,10001&5|12002&5|12003&5|12005&5,1001,0&0,0,0&0,1003,0&0,0,Legend has it that the mountain rised from the sea. Since ancient times， many worshippers have come here to find their answers of life， so it is called RanShan- Mountain of Answers.
+1071,BoHai,0,0,1,100,101,1002,4,6,5,20001,20,0,0&0,0,0&0,0,0&0,1002,0&0,0,0&0,0,
+1072,TaiShan,0,0,1,100,101,1003,1,6,4,20001,20,0,0&0,0,0&0,0,0&0,0,0&0,1003,0&0,0,
+1073,YanJing,0,0,1,100,101,1002,0,6,4,20001,20,0,0&0,0,0&0,0,0&0,1002,0&0,0,0&0,0,
+1074,JiShui,0,0,1,100,101,1001,3,6,4,20001,20,0,0&0,0,0&0,1001,0&0,0,0&0,0,0&0,0,
+1075,PengLai,0,0,1,100,101,1001,4,6,3,20001,20,0,0&0,0,0&0,1001,0&0,0,0&0,0,0&0,0,
+1076,LiangShan,0,0,1,100,101,1001,1,6,3,20001,20,0,0&0,0,0&0,1001,0&0,0,0&0,0,0&0,0,
+1077,ChaiShan,0,0,1,100,101,1001,1,6,3,20001,20,0,0&0,0,0&0,1001,0&0,0,0&0,0,0&0,0,
+7,JiangLing,0,2,1,200,101,8,13,7,5,20001,30,8,0&0,0,0&0,0,0&0,1002,0&0,1003,0&0,0,Jiangling is the “imperial ancient capital” of the Central Plains， a place where the famous scholars gather.
+108,XuanNyuPeak,200,1,1,180,101,1002,28,7,5,20001,30,0,0&0,108,10001&5|10003&5|10005&5|12001&5,0,0&0,1002,0&0,1003,0&0,0,XuanNyu Peak， or “Peak of The Lady”， is where “The Thick Ice” is located. It is said The Lady left two  volumes of lengendary classics on it.  Virgin practicers would be elegant， pure and eventually immortal.
+1081,WuShan,0,0,1,100,101,1003,5,7,5,20001,20,0,0&0,0,0&0,0,0&0,0,0&0,1003,0&0,0,
+1082,TanZhou,0,0,1,100,101,1002,2,7,4,20001,20,0,0&0,0,0&0,0,0&0,1002,0&0,0,0&0,0,
+1083,HengShan,0,0,1,100,101,1001,1,7,4,20001,20,0,0&0,0,0&0,1001,0&0,0,0&0,0,0&0,0,
+1084,XiangShui,0,0,1,100,101,1002,3,7,4,20001,20,0,0&0,0,0&0,0,0&0,1002,0&0,0,0&0,0,
+1085,DongTing Lake,0,0,1,100,101,1002,3,7,3,20001,20,0,0&0,0,0&0,0,0&0,1002,0&0,0,0&0,0,
+1086,JiuYiSHan,0,0,1,100,101,1003,1,7,3,20001,20,0,0&0,0,0&0,0,0&0,0,0&0,1003,0&0,0,
+1087,WuLingShan,0,0,1,100,101,1001,1,7,3,20001,20,0,0&0,0,0&0,1001,0&0,0,0&0,0,0&0,0,
+8,FuZhou,0,2,1,200,101,9,14,8,5,20001,30,9,0&0,0,0&0,1001,0&0,1002,0&0,0,0&0,0,Fuzhou has a large population with developed sea-based. Because of the eucalyptus planting， it is also called “the city of eucalyptus”.
+109,Cham LuShan,200,1,1,180,101,1002,29,8,5,20001,30,0,0&0,109,10001&10|10005&10,1001,0&0,1002,0&0,0,0&0,0,There are many precious stones in the mountains. Ouyezi， the founder of sword forging art， made one of the most famous sword “Zhan Lu” here， so it is named ZhanLuShan（ZhanLu Mountain）.
+1091,QuanZhou,0,0,1,100,101,1002,2,8,5,20001,20,0,0&0,0,0&0,0,0&0,1002,0&0,0,0&0,0,
+1092,ZhangZhou,0,0,1,100,101,1001,2,8,4,20001,20,0,0&0,0,0&0,1001,0&0,0,0&0,0,0&0,0,
+1093,WenZhou,0,0,1,100,101,1002,2,8,4,20001,20,0,0&0,0,0&0,0,0&0,1002,0&0,0,0&0,0,
+1094,WuyiShan,0,0,1,100,101,1001,1,8,4,20001,20,0,0&0,0,0&0,1001,0&0,0,0&0,0,0&0,0,
+1095,LiuQiu,0,0,1,100,101,1002,4,8,3,20001,20,0,0&0,0,0&0,0,0&0,1002,0&0,0,0&0,0,
+1096,Peng Lake,0,0,1,100,101,1001,3,8,3,20001,20,0,0&0,0,0&0,1001,0&0,0,0&0,0,0&0,0,
+1097,YanDangShan,0,0,1,100,101,1001,1,8,3,20001,20,0,0&0,0,0&0,1001,0&0,0,0&0,0,0&0,0,
+9,LiaoYang,0,2,1,200,101,10,15,9,5,20001,30,10,0&0,0,0&0,0,0&0,1002,0&0,1003,0&0,0,Liaoyang has a vast territory and is the most famous ancient capital in the north.
+110,KongSangShan,200,1,1,180,101,1003,30,9,5,20001,30,0,0&0,110,10001&10|10002&5|12005&5,1001,0&0,0,0&0,1003,0&0,0,The KongSang mountain is located in the east of Changbai Mountain. Although there it snows all year round， in the mountains it’s always like spring. There are also many rare animals that are unheard of in this little world. Because here grows many mulberry trees， it is called “KongSang Shan”-- the Mulberry Mountain.
+1101,ChangBaiShan,0,0,1,100,101,1003,1,9,5,20001,20,0,0&0,0,0&0,0,0&0,0,0&0,1003,0&0,0,
+1102,DongJinSHan,0,0,1,100,101,1001,1,9,4,20001,20,0,0&0,0,0&0,1001,0&0,0,0&0,0,0&0,0,
+1103,LiaoHe,0,0,1,100,101,1002,3,9,4,20001,20,0,0&0,0,0&0,0,0&0,1002,0&0,0,0&0,0,
+1104,YaLuJiang,0,0,1,100,101,1001,3,9,4,20001,20,0,0&0,0,0&0,1001,0&0,0,0&0,0,0&0,0,
+1105,KaiJing,0,0,1,100,101,1002,0,9,3,20001,20,0,0&0,0,0&0,0,0&0,1002,0&0,0,0&0,0,
+1106,YanShan,0,0,1,100,101,1003,1,9,3,20001,20,0,0&0,0,0&0,0,0&0,0,0&0,1003,0&0,0,
+1107,HunTongJiang,0,0,1,100,101,1001,3,9,3,20001,20,0,0&0,0,0&0,1001,0&0,0,0&0,0,0&0,0,
+10,QinZhou,0,2,1,200,101,11,16,10,5,20001,30,11,0&0,0,0&0,1001,0&0,0,0&0,1003,0&0,0,Qinzhou is the land of border. Under the control of Vajrayana， it has become the base area of the restoration of the ancient Zhang Zhung kingdom.
+111,KunLunShan,200,1,1,260,101,1003,31,10,5,20001,30,0,0&0,111,10001&20,1001,0&0,0,0&0,1003,0&0,0,Kunlun Mountain is the birthplace of the Yellow River. It is highly respected by the world. It is known as the “ancestor of all mountains“ and the “ancestor of the Dragon Vein”.
+1111,QingHai,0,0,1,100,101,1002,2,10,5,20001,20,0,0&0,0,0&0,0,0&0,1002,0&0,0,0&0,0,
+1112,QiLianShan,0,0,1,100,101,1001,1,10,4,20001,20,0,0&0,0,0&0,1001,0&0,0,0&0,0,0&0,0,
+1113,LanZhou,0,0,1,100,101,1002,2,10,4,20001,20,0,0&0,0,0&0,0,0&0,1002,0&0,0,0&0,0,
+1114,XingYuan,0,0,1,100,101,1002,0,10,4,20001,20,0,0&0,0,0&0,0,0&0,1002,0&0,0,0&0,0,
+1115,LiuPanShan,0,0,1,100,101,1001,1,10,3,20001,20,0,0&0,0,0&0,1001,0&0,0,0&0,0,0&0,0,
+1116,DaXueShan,0,0,1,100,101,1001,5,10,3,20001,20,0,0&0,0,0&0,1001,0&0,0,0&0,0,0&0,0,
+1117,FengXiang,0,0,1,100,101,1001,0,10,3,20001,20,0,0&0,0,0&0,1001,0&0,0,0&0,0,0&0,0,
+11,DaLi,0,2,1,200,101,12,17,11,5,20001,30,12,0&0,0,0&0,1001,0&0,1002,0&0,0,0&0,0,The majority of the Dali people believe in Buddhism. Although there are many clan tribes here， they all unite and love each other， presenting a scene of prosperity.
+112,HeiShui,200,1,1,200,101,1003,32,11,5,20001,30,0,0&0,112,12002&10|12004&10,1001,0&0,0,0&0,1003,0&0,0,The HeiShui river twists and turns like a giant snake stretches for thousands of miles. With fertile black soil， it is called HeiShui-- “black water.” The Miao people have been cultivating and breeding by the river for generations， and regard it as a god.
+1121,DianNanZe,0,0,1,100,101,1003,3,11,5,20001,20,0,0&0,0,0&0,0,0&0,0,0&0,1003,0&0,0,
+1122,ShanChan,0,0,1,100,101,1002,2,11,4,20001,20,0,0&0,0,0&0,0,0&0,1002,0&0,0,0&0,0,
+1123,LanCangJiang,0,0,1,100,101,1001,3,11,4,20001,20,0,0&0,0,0&0,1001,0&0,0,0&0,0,0&0,0,
+1124,XiErHe,0,0,1,100,101,1001,3,11,4,20001,20,0,0&0,0,0&0,1001,0&0,0,0&0,0,0&0,0,
+1125,WuLiangShan,0,0,1,100,101,1003,1,11,3,20001,20,0,0&0,0,0&0,0,0&0,0,0&0,1003,0&0,0,
+1126,NuJiang,0,0,1,100,101,1001,3,11,3,20001,20,0,0&0,0,0&0,1001,0&0,0,0&0,0,0&0,0,
+1127,ZhuTi,0,0,1,100,101,1001,2,11,3,20001,20,0,0&0,0,0&0,1001,0&0,0,0&0,0,0&0,0,
+12,ShouChun,0,2,1,200,101,13,18,12,5,20001,30,13,0&0,0,0&0,1001,0&0,1002,0&0,0,0&0,0,Shouchun is the capital of Huainan and is known as the “Zhongzhou Throat”. Shouchun is not only the hometown of the Chu people， but also the hometown of Tofu.
+113,JieQingYa,200,1,1,180,101,1003,33,12,5,20001,30,0,0&0,113,10002&5|10005&5|12003&10,1001,0&0,0,0&0,1003,0&0,0,JieQing Cliff is surrounded by nigh mountains， so it is dark all year round. There are many natural caves on the JieQing Cliff， which are grotesque and unpredictable. It is a place of deep fear for the world.
+1131,LuZhou,0,0,1,100,101,1002,2,12,5,20001,20,0,0&0,0,0&0,0,0&0,1002,0&0,0,0&0,0,
+1132,HuangShan,0,0,1,100,101,1003,1,12,4,20001,20,0,0&0,0,0&0,0,0&0,0,0&0,1003,0&0,0,
+1133,HuaiShui,0,0,1,100,101,1002,3,12,4,20001,20,0,0&0,0,0&0,0,0&0,1002,0&0,0,0&0,0,
+1134,LuShan,0,0,1,100,101,1002,1,12,4,20001,20,0,0&0,0,0&0,0,0&0,1002,0&0,0,0&0,0,
+1135,JiuHuaShan,0,0,1,100,101,1003,1,12,3,20001,20,0,0&0,0,0&0,0,0&0,0,0&0,1003,0&0,0,
+1136,TianZhu,0,0,1,100,101,1001,1,12,3,20001,20,0,0&0,0,0&0,1001,0&0,0,0&0,0,0&0,0,
+1137,ChaoHu,0,0,1,100,101,1001,3,12,3,20001,20,0,0&0,0,0&0,1001,0&0,0,0&0,0,0&0,0,
+13,HangZhou,0,2,1,200,101,14,19,13,5,20001,30,14,0&0,0,0&0,1001,0&0,1002,0&0,0,0&0,0,The most important state in the southeast is said to be Hangzhou， which has been prosperous since ancient times.
+114,ChiMing Island,200,1,1,200,101,1003,34,13,5,20001,30,0,0&0,114,10001&10|12002&5|12003&5,1001,0&0,0,0&0,1003,0&0,0,Although the radius of ChiMing Island is only a few hundred miles， it is said that there is a real dragon on it. The real dragon spurts the fire all the year round， which reflects the redness to the sea and the sky， so it is called “Chiming Island”-- the red-sky island. The heat on Chiming Island is unusual， and the seasons are not divided. There are coke and weird black stones everywhere.
+1141,SuZhou,0,0,1,100,101,1002,3,13,5,20001,20,0,0&0,0,0&0,0,0&0,1002,0&0,0,0&0,0,
+1142,TaiHu,0,0,1,100,101,1002,3,13,4,20001,20,0,0&0,0,0&0,0,0&0,1002,0&0,0,0&0,0,
+1143,LinHai,0,0,1,100,101,1001,3,13,4,20001,20,0,0&0,0,0&0,1001,0&0,0,0&0,0,0&0,0,
+1144,XiHu,0,0,1,100,101,1002,3,13,4,20001,20,0,0&0,0,0&0,0,0&0,1002,0&0,0,0&0,0,
+1145,PuTuoShan,0,0,1,100,101,1002,1,13,3,20001,20,0,0&0,0,0&0,0,0&0,1002,0&0,0,0&0,0,
+1146,PengLiZe,0,0,1,100,101,1001,3,13,3,20001,20,0,0&0,0,0&0,1001,0&0,0,0&0,0,0&0,0,
+1147,XianXiaLing,0,0,1,100,101,1001,1,13,3,20001,20,0,0&0,0,0&0,1001,0&0,0,0&0,0,0&0,0,
+14,YangZhou,0,2,1,200,101,15,20,14,5,20001,30,15,0&0,0,0&0,1001,0&0,1002,0&0,0,0&0,0,There are paintings everywhere， and there are singing songs every night.
+115,Blood Hou Valley,200,1,1,260,101,1003,35,14,5,20001,30,0,0&0,115,10002&10|12001&5|12004&5,1001,0&0,0,0&0,1003,0&0,0,It is damp and cold here. During the rainy season， the red soil mixes with the rain and looks like a sea of blood. Legend has it that there is a bloody-red huge poisonous monster， hence the name “Blood Hou Valley“.
+1151,East Sea,0,0,1,100,101,1002,4,14,5,20001,20,0,0&0,0,0&0,0,0&0,1002,0&0,0,0&0,0,
+1152,JiangNing,0,0,1,100,101,1002,3,14,4,20001,20,0,0&0,0,0&0,0,0&0,1002,0&0,0,0&0,0,
+1153,HuaiAn,0,0,1,100,101,1002,2,14,4,20001,20,0,0&0,0,0&0,0,0&0,1002,0&0,0,0&0,0,
+1154,XuZhou,0,0,1,100,101,1002,2,14,4,20001,20,0,0&0,0,0&0,0,0&0,1002,0&0,0,0&0,0,
+1155,MaoShan,0,0,1,100,101,1001,1,14,3,20001,20,0,0&0,0,0&0,1001,0&0,0,0&0,0,0&0,0,
+1156,HongZe Lake,0,0,1,100,101,1002,3,14,3,20001,20,0,0&0,0,0&0,0,0&0,1002,0&0,0,0&0,0,
+1157,CangWuShan,0,0,1,100,101,1001,1,14,3,20001,20,0,0&0,0,0&0,1001,0&0,0,0&0,0,0&0,0,
+5001,Barranca,0,0,0,0,0,-1,0,16,1,20001,5,0,0&0,0,0&0,0,0&0,0,0&0,0,0&0,0,
+9999,Barranca,0,0,0,0,0,-1,0,15,1,20001,9,0,0&0,0,0&0,0,0&0,0,0&0,0,0&0,30001,

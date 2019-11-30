@@ -1,0 +1,18 @@
+#,0,1,98,99
+0,「Food」,FOD,0,Common grains，poultry，etc.
+1,「Wood」,WOD,1,Common wood，bamboo branches，vines，etc.
+2,「Ore」,ORE,2,Common ores，copper，iron，stone，etc.
+3,「Textile」,TXT,3,Common plants，silk，fur，etc.
+4,「Herb」,HRB,4,Common medicinal materials from various types of vegetation，ore，insects，beasts，etc.
+5,「Money」,MNY,5,Coins made in a style of the previous dynasty.
+6,「Prestige」,PRT,8,The prestige brought about by the admiration and awe of others.
+7,「ManPower」,MAN,9,Manpower comes from the number of villagers in Taiwu Village and the scale and number of “Dorms” in Taiwu Village.\nC_20008（Now you can arrange up to C_20003100C_D Labors）C_D
+8,「Culture」,CUL,6,Place with high Culture level promises more income for structures of music，chess，calligraphy，painting and other cultural activities.
+9,「Security」,SEC,7,Place with high Security promises more income for entertainments， while place with low Security prefer more protections such as Escort Agency.
+101,Sensitivity,Sensitivity,10,Ability to discover and interpret secrets.\n High Sensitivity means you have great attention to details，you are more likely to find hidden places.
+102,Cleverness,Cleverness,11,Ability to identify strange things.\nHigh Cleverness gives you high curiosity，you are more likely to go and search for the unknown.
+103,Adaptation,Adaptation,12,Ability to discover by water area.\nHigh Adaptation means you are a great swimmer，you are more likely to go and search for treasures under water.
+104,Valour,Valour,13,Ability to face danger bravely.\nHigh Valour means you are brave to face danger，makes you eager to find enemies and challengers.
+105,Fortitude,Fortitude,14,Ability to endure extreme things.\nHigh Fortitude means you have strong will and high determinations，makes it easier to access to unvisited places.
+106,Composure,Composure,15,Ability to cope with complex situations and changes.\nHigh Composure means you have great problem solving skills，allowing you to avoid traps and go through mazes.
+107,Karma,Karma,16,Karma plays as an unexplainable role in your life.\nNo one can truly understand the trajectory of fate.

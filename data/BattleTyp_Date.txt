@@ -1,0 +1,14 @@
+#,0,1,2,3,99
+0,Normal,0,0,50,Start battle normally。
+1,Face to face,25,30,50,The battle is to the strong。\nStart battle on distance 3.0。
+2,Excitation,25,0,50,One for all，all for one。\nCompanion will help you more frequently。
+3,Mirror of heart,50,0,50,Opportunity favors the prepared mind。\nStart battle with doubled C_20008「Shield」C_D。
+4,Trap,75,0,50,Set trap，everything is under control。\nYour attacks interrupt enemy'sC_20008「Retreat」C_D。
+5,Concentrate,100,0,50,Concentrate，circle the wagons。\nIncreaseC_20008「Focus」C_Drising speed。「Focus」increases the inhale/stance speed in battle
+101,Sneak attack,25,80,50,Low blow。\nStart battle on distance 8.0。
+102,Alienate,25,0,50,Wrapped around their little finger。\nEnemy's Companion will help less frequently。
+103,Hidden dagger,50,0,50,There are daggers in a man's smile。\nHalved enemy'sC_20008「Shield」C_D。
+104,Ambush,75,0,50,Surrounded on all Sides。\nEnemy cannot C_20008「Retreat」C_D。
+105,Cunning,100,0,50,Kick someone when he/she is down。\nDecreaseC_20008「Focus」C_Dof enemy。「Focus」increases the inhale/stance speed in battle
+2001,Auto Combat,0,0,0,Press C_20008RC_D key to turn on or turn off auto combat。
+2002,Auto S·Attack,0,0,0,Press C_20008CC_D key to turn on or turn off auto switch attack。

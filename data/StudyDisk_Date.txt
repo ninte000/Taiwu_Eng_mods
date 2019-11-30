@@ -1,0 +1,19 @@
+#,0,1,2,3,4,5,6,7,8,9,10,101,102,201,99
+0,Start,0,0,0,0,0,0,0,0,0,0,0,0,10002,Start of this Breakthrough.
+1,End,0,0,0,0,0,0,0,0,0,0,0,0,10002,End of this Breakthrough. \nAll progress will be lost if you cannot reach this cell.
+2,Normal,1,0,0,0,0,0,0,0,0,0,0,0,20002,No special effect.
+101,Succession,1,0,0,0,0,0,0,100,0,0,0,0,20007,If connection attempt is succesful， The reward for the last succesfully connected cell is immediately added to the rewards of this cell.
+102,Transition,1,0,0,0,0,0,0,0,100,0,0,0,20007,The next attempt to connect cell to this one is guaranteed to be succesful.
+103,Challenge,1,100,0,0,0,0,0,0,0,0,-50,0,20007,Success chance of connecting this cell is decreased by 50%. \nRewards of this cell is increased by 100%.
+104,Steady,1,-50,0,0,0,0,0,0,0,0,100,0,20007,Success chance of connecting this cell is increased by 100%. \nRewards of this cell is decreased by 50%.
+105,Foundation,1,0,0,0,0,0,0,0,0,0,-100,50,20007,Success chance of connecting all the cells around this cell is increased by 50%
+106,Culmination,1,100,0,0,0,0,0,0,0,0,0,-50,20007,Rewards of this cell is increased by 100%. \nSuccess chance of connecting every cell around this cell is decreased by 50%
+107,Inspiration,0,0,0,0,0,0,0,0,0,0,0,0,20007,Connecting this cell will not increase the number of attempts.
+108,Refreshment,-1,-100,0,0,0,0,0,0,0,0,0,0,20007,This cell has no rewards. \nConnecting this cell will reduce the number of attempts.
+109,Reversal,1,200,-50,0,0,0,0,0,0,0,-50,0,20007,Success chance of connecting this cell is decreased by 50%. \nRewards of this cell is increased by 200%. \nRewards of this every cell around this cell is decreased by 50%.
+110,Support,1,-100,50,0,0,0,0,0,0,0,0,0,20007,This cell has no rewards. \nRewards for every cell around this cell is increased by 50%.
+111,Perseverence,1,0,0,0,100,0,0,0,0,0,0,0,20007,Rewards of this cell is increased by 100% for each failed cell around this cell.
+112,Flexibility,1,0,0,50,0,0,0,0,0,0,0,0,20007,Rewards of this cell is increased by 50% for each connected cell around this cell.
+113,Summary,1,0,0,0,0,0,20,0,0,0,0,0,20010,Rewards of this cell is increased by 20% per each cell connected throughout this breakthrough.
+114,Overcharge,1,0,0,0,0,100,0,0,0,0,0,0,20010,Rewards of this cell is increased by 100% per each attempt over the limit.
+115,Clairty,1,0,0,0,0,0,0,0,0,10,0,0,20007,Reveals some hidden cells.

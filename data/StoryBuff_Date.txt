@@ -1,0 +1,11 @@
+#,0,1,2,3,4,98,99,999
+1,Caravan friendship：,1,5%,1101,1201,5,%,Favorable impression of caravan
+2,Obtain resource：,50,50%,1102,1202,1,%,Obtain resource
+3,Obtain item：,20,20%,1103,1203,1,%,Obtain item
+4,Experience：,50,50%,1104,1204,1,%,Experience
+5,Heal and detox：,25,25%,1105,1205,1,%,Heal and detox
+6,Gained IEC：,1,1,1106,1206,1,,Gained internal energy cultivation
+7,Better crickets：,10,10%,1107,1207,1,%,Better crickets
+8,Obtain money：,50,50%,1108,1208,1,%,Obtain money
+9,Experience：,50,50%,1109,1209,1,%,Experience
+10,REL change：,20,20%,1110,1210,1,%,Interpersonal relationship change

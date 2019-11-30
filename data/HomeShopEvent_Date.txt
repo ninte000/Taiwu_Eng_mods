@@ -1,0 +1,243 @@
+#,0,1,11,15,12,13,14,16,98
+1,No customer：,0,0,0,0,0,0,0,An desserted house that no ones visited。
+2,No customer：,0,0,0,0,0,0,0,The bamboo basket is in the well and not a single grain was reaped。
+101,Tavern：,1,1|1,0,6|7,600|40,10,1,Welcomed | as a traveller。
+102,Letter：,2,1|1,0,6|7,800|60,5,1,Received from | a letter and was successfully delivered。
+103,Tavern：,-1,1,0,6,400,30,1,Welcomed | as a traveller。However，due to disarrangement，the traveller had to spend his night in the stable。
+104,Letter：,-2,1,0,6,200,50,1,Received from | a letter。However，the letter was lost during the process of delivering it。
+200010,Caravan guard：,1,1|1,0,6|7,900|20,10,1,Welcomed | as caravan guard，the goods were smoothly transported to the destination。
+200011,Escort：,2,1|1,0,6|7,1200|40,5,1,Welcomed | as escort，the client was successfully bought to the destination and full of praise。
+200012,Caravan guard：,-1,1,0,6,600,30,1,Welcomed | as caravan guard，however duo to some blunders，the client was disatisfied。
+200013,Escort：,-2,1,0,6,300,50,1,Welcomed | as escort，however due to some major mistakes，the employer is extreme unhappy。
+10001,Hunting：,1,2,3,3401&3422,1,10,0,did some hunting。
+10002,Panning：,1,2,3,3108,1,10,0,did some panning。
+10003,Hunting：,2,2,4,3401&3422,1,5,0,did some successful hunting and was rewarded handsomely。
+10004,Panning：,2,2,4,3108,1,5,0,did some successful panning and was rewarded handsomely。
+10005,Hunting：,-1,2,2,3401&3422,1,30,0,made many mistakes while hunting。
+10006,Panning：,-1,2,2,3108,1,30,0,made many mistakes while panning。
+10007,Hunting：,-2,0,0,0,0,50,0,made some major mistakes while hunting。
+10008,Panning：,-2,0,0,0,0,50,0,made some major mistakes while panning。
+10011,Mining：,1,2,3,3101&3108,1,10,0,did some mining。
+10012,Excavation：,1,2,3,3201&3208,1,10,0,did some excavation。
+10013,Mining：,2,2,4,3101&3108,1,5,0,did some successful mining and was rewarded handsomely。
+10014,Excavation：,2,2,4,3201&3208,1,5,0,did some successful excavation and was rewarded handsomely。
+10015,Mining：,-1,2,2,3101&3108,1,30,0,made many mistakes while mining。
+10016,Excavation：,-1,2,2,3201&3208,1,30,0,made many mistakes while excavating。
+10017,Mining：,-2,0,0,0,0,50,0,made some major mistakes while mining。
+10018,Excavation：,-2,0,0,0,0,50,0,made some major mistakes while excavating。
+10021,Woodcutting：,1,2,3,3001&3008,1,10,0,did some woodcutting。
+10022,Woodcutting：,2,2,4,3001&3008,1,5,0,did some successful woodcutting and was rewarded handsomely。
+10023,Woodcutting：,-1,2,2,3001&3008,1,30,0,made many mistakes while woodcutting。
+10024,Woodcutting：,-2,0,0,0,0,50,0,made some major mistakes while woodcutting。
+10031,Renovation：,1,2,3,3101,1,10,0,did some renovation。
+10032,Renovation：,2,2,4,3101,1,5,0,did some successful renovation and was rewarded handsomely。
+10033,Renovation：,-1,2,2,3101,1,30,0,made many mistakes while renovating。
+10034,Renovation：,-2,0,0,0,0,50,0,made some major mistakes while renovating。
+10041,Cultivate：,1,2,1,4001&4005&4009&4013&4017&4021&4025&4029&4033&4037&4041&4045&4049&4053&4057&4061&4065&4069&4073&4077&4081&4085&4089&4093,1,10,0,did some cultivating。
+10042,Cultivate：,2,2,2,4001&4005&4009&4013&4017&4021&4025&4029&4033&4037&4041&4045&4049&4053&4057&4061&4065&4069&4073&4077&4081&4085&4089&4093,1,5,0,did some successful cultivating and was rewarded handsomely。
+10043,Cultivate：,-1,2,0,4001&4005&4009&4013&4017&4021&4025&4029&4033&4037&4041&4045&4049&4053&4057&4061&4065&4069&4073&4077&4081&4085&4089&4093,1,30,0,made many mistakes while cultivating。
+10044,Cultivate：,-2,0,0,0,0,50,0,made some major mistakes while cultivating。
+10051,Cultivate：,1,2,3,4201&4208&4215&4222&4229&4236,1,10,0,did some cultivating。
+10052,Cultivate：,2,2,4,4201&4208&4215&4222&4229&4236,1,5,0,did some successful cultivating and was rewarded handsomely。
+10053,Cultivate：,-1,2,2,4201&4208&4215&4222&4229&4236,1,30,0,made many mistakes while cultivating。
+10054,Cultivate：,-2,0,0,0,0,50,0,made some major mistakes while cultivating。
+10061,Gathering：,1,2,3,3308,1,10,0,did some gathering。
+10062,Gathering：,2,2,4,3308,1,5,0,did some successful gathering and was rewarded handsomely。
+10063,Gathering：,-1,2,2,3308,1,30,0,made many mistakes while gathering。
+10064,Gathering：,-2,0,0,0,0,50,0,made some major mistakes while gathering。
+10071,Digging：,1,2,3,3201&3208,1,10,0,did some digging。
+10072,Dyeing：,1,2,3,3308,1,10,0,did some dyeing。
+10073,Digging：,2,2,4,3201&3208,1,5,0,did some successful digging and was rewarded handsomely。
+10074,Dyeing：,2,2,4,3308,1,5,0,did some successful dyeing and was rewarded handsomely。
+10075,Digging：,-1,2,2,3201&3208,1,30,0,made many mistakes while digging。
+10076,Dyeing：,-1,2,2,3308,1,30,0,made many mistakes while dyeing。
+10077,Digging：,-2,0,0,0,0,50,0,made some major mistakes while digging。
+10078,Dyeing：,-2,0,0,0,0,50,0,made some major mistakes while dyeing。
+10081,Gathering：,1,2,3,3415,1,10,0,did some gathering。
+10082,Gathering：,2,2,4,3415,1,5,0,did some successful gathering and was rewarded handsomely。
+10083,Gathering：,-1,2,2,3415,1,30,0,made many mistakes while gathering。
+10084,Gathering：,-2,0,0,0,0,50,0,made some major mistakes while gathering。
+10091,Hunting：,1,2,3,3301&3401&3408,1,10,0,did some hunting。
+10092,Hunting：,2,2,4,3301&3401&3408,1,5,0,did some successful hunting and was rewarded handsomely。
+10093,Hunting：,-1,2,2,3301&3401&3408,1,30,0,made many mistakes while hunting。
+10094,Hunting：,-2,0,0,0,0,50,0,made some major mistakes while hunting。
+10101,Refining：,1,2,4,3109,1,10,0,did some refining。
+10102,Excavation：,1,2,4,3202,1,10,0,did some excavating。
+10103,Refining：,2,2,5,3109,1,5,0,did some successful refining and was rewarded handsomely。
+10104,Excavation：,2,2,5,3202,1,5,0,did some successful excavating and was rewarded handsomely。
+10105,Refining：,-1,2,3,3109,1,30,0,made many mistakes while refining。
+10106,Excavation：,-1,2,3,3202,1,30,0,made many mistakes while excavating。
+10107,Refining：,-2,0,0,0,0,50,0,made some major mistakes while refining。
+10108,Excavation：,-2,0,0,0,0,50,0,made some major mistakes while excavating。
+10111,Mining：,1,2,4,3102,1,10,0,did some mining。
+10112,Mining：,2,2,5,3102,1,5,0,did some successful mining and was rewarded handsomely。
+10113,Mining：,-1,2,3,3102,1,30,0,made many mistakes while mining。
+10114,Mining：,-2,0,0,0,0,50,0,made some major mistakes while mining。
+10121,Woodcutting：,1,2,4,3002&3009,1,10,0,did some woodcutting。
+10122,Cultivating：,1,2,4,4202&4209&4216&4223&4230&4237,1,10,0,did some cultivating。
+10123,Woodcutting：,2,2,5,3002&3009,1,5,0,did some successful woodcutting and was rewarded handsomely。
+10124,Cultivating：,2,2,5,4202&4209&4216&4223&4230&4237,1,5,0,did some successful cultivating and was rewarded handsomely。
+10125,Woodcutting：,-1,2,3,3002&3009,1,30,0,made many mistakes while woodcutting。
+10126,Cultivating：,-1,2,3,4202&4209&4216&4223&4230&4237,1,30,0,made many mistakes while cultivating。
+10127,Woodcutting：,-2,0,0,0,0,50,0,made some major mistakes while woodcutting。
+10128,Cultivating：,-2,0,0,0,0,50,0,made some major mistakes while cultivating。
+10131,Woodcutting：,1,2,4,3002&3009,1,10,0,did some woodcutting。
+10132,Woodcutting：,2,2,5,3002&3009,1,5,0,did some successful woodcutting and was rewarded handsomely。
+10133,Woodcutting：,-1,2,3,3002&3009,1,30,0,made many mistakes while woodcutting。
+10134,Woodcutting：,-2,0,0,0,0,50,0,made some major mistakes while woodcutting。
+10141,Cultivating：,1,2,1,4002&4006&4010&4014&4018&4022&4026&4030&4034&4038&4042&4046&4050&4054&4058&4062&4066&4070&4074&4078&4082&4086&4090&4094,1,10,0,did some cultivating。
+10142,Cultivating：,2,2,2,4002&4006&4010&4014&4018&4022&4026&4030&4034&4038&4042&4046&4050&4054&4058&4062&4066&4070&4074&4078&4082&4086&4090&4094,1,5,0,did some successful cultivating and was rewarded handsomely。
+10143,Cultivating：,-1,2,0,4002&4006&4010&4014&4018&4022&4026&4030&4034&4038&4042&4046&4050&4054&4058&4062&4066&4070&4074&4078&4082&4086&4090&4094,1,30,0,made many mistakes while cultivating。
+10144,Cultivating：,-2,0,0,0,0,50,0,made some major mistakes while cultivating。
+10151,Hunting：,1,2,4,3302&3409,1,10,0,did some hunting。
+10152,Cultivating：,1,2,4,4202&4209&4216&4223&4230&4237,1,10,0,did some cultivating。
+10153,Hunting：,2,2,5,3302&3409,1,5,0,did some successful hunting and was rewarded handsomely。
+10154,Cultivating：,2,2,5,4202&4209&4216&4223&4230&4237,1,5,0,did some successful cultivating and was rewarded handsomely。
+10155,Hunting：,-1,2,3,3302&3409,1,30,0,made many mistakes while hunting。
+10156,Cultivating：,-1,2,3,4202&4209&4216&4223&4230&4237,1,30,0,made many mistakes while cultivating。
+10157,Hunting：,-2,0,0,0,0,50,0,made some major mistakes while hunting。
+10158,Cultivating：,-2,0,0,0,0,50,0,made some major mistakes while cultivating。
+10161,Hunting：,1,2,4,3302,1,10,0,did some hunting。
+10162,Gathering：,1,2,4,3309,1,10,0,did some gathering。
+10163,Hunting：,2,2,5,3302,1,5,0,did some successful hunting and was rewarded handsomely。
+10164,Gathering：,2,2,5,3309,1,5,0,did some successful gathering and was rewarded handsomely。
+10165,Hunting：,-1,2,3,3302,1,30,0,made many mistakes while hunting。
+10166,Gathering：,-1,2,3,3309,1,30,0,made many mistakes while gathering。
+10167,Hunting：,-2,0,0,0,0,50,0,made some major mistakes while hunting。
+10168,Gathering：,-2,0,0,0,0,50,0,made some major mistakes while gathering。
+10171,Trapping：,1,4,20,10000,1,10,0,made some traps。
+10172,Trapping：,2,4,24,10000,1,5,0,was successful with the traps and was rewarded handsomely。
+10173,Trapping：,-1,4,16,10000,1,30,0,made many mistakes with the traps。
+10174,Trapping：,-2,0,0,0,0,50,0,made some major mistakes with the traps。
+10181,Excavation：,1,2,4,3202,1,10,0,did some excavating。
+10182,Excavation：,2,2,5,3202,1,5,0,did some successful excavating and was rewarded handsomely。
+10183,Excavation：,-1,2,3,3202,1,30,0,made many mistakes while excavating。
+10184,Excavation：,-2,0,0,0,0,50,0,made some major mistakes while excavating。
+10191,Excavation：,1,2,4,3209,1,10,0,did some excavating。
+10192,Excavation：,2,2,5,3209,1,5,0,did some successful excavating and was rewarded handsomely。
+10193,Excavation：,-1,2,3,3209,1,30,0,made many mistakes while excavating。
+10194,Excavation：,-2,0,0,0,0,50,0,made some major mistakes while excavating。
+200020,Guidance：,1,1,0,7,40,10,1,Welcomed | who is a Wulin member。
+200021,Guidance：,2,1,0,7,60,5,1,Welcomed | who is a Wulin member and was got praised for it。
+200022,Guidance：,-1,1,0,7,20,30,1,Welcomed | who is a Wulin member。Because some mistakes happened during the process，the Wulin member was disatisfied。
+200023,Guidance：,-2,0,0,0,0,50,1,Welcomed | who is a Wulin member。Because some major mistakes happened during the process，the Wulin member was extremely unhappy。
+200030,Grand gathering：,1,1,0,7,40,10,1,The guest | attended the grand gathering。
+200031,Grand gathering：,2,1,0,7,60,5,1,The guest | attended the grand gathering and praised you for it。
+200032,Grand gathering：,-1,1,0,7,20,30,1,The guest | attended the grand gathering，however many mistakes happened and the guest was disatisfied。
+200033,Grand gathering：,-2,0,0,0,0,50,1,The guest | attended the grand gathering，however some major mistakes happened and the guest was extremely disatisfied。
+200040,Worship：,1,1,0,7,40,10,1,The noble | held a ritual ceremony。
+200041,Worship：,2,1,0,7,60,5,1,The noble | held a ritual ceremony and praised you for it。
+200042,Worship：,-1,1,0,7,20,30,1,The noble | held a ritual ceremony，however many mistakes happened and the noble was disatisfied。
+200043,Worship：,-2,0,0,0,0,50,1,The noble | held a ritual ceremony，however some major mistakes happened and the noble was extremely disatisfied。
+200050,Free clinic：,1,1,0,7,40,10,1,Because of | a number of cases of incurable diseases were diagnosed and treated in the populace。
+200051,Free clinic：,2,1,0,7,60,5,1,Because of | several cases of incurable diseases were diagnosed and treated. It won the praise of the populace。
+200052,Free clinic：,-1,1,0,7,20,30,1,Because of | several cases of incurable diseases were diagnosed and treated，but some mistakes happened which earned the disatisfaction of the populace。
+200053,Free clinic：,-2,0,0,0,0,50,1,Because of | several cases of incurable diseases were diagnosed and treated，but major mistakes were made which earned the extrem disatisfaction of the populace。
+200060,Ritual：,1,1,0,7,60,10,1,The devoted | came to have a ritual ceremony。
+200061,Ritual：,2,1,0,7,80,5,1,The devoted | came to have a ritual ceremony and won the praise of populace。
+200062,Ritual：,-1,1,0,7,40,30,1,The devoted | came to have a ritual ceremony，but many mistake happened and earned the disatisfaction of the populace。
+200063,Ritual：,-2,0,0,0,0,50,1,The devoted | came to have a ritual ceremony，but major mistakes were made which earned the extrem disatisfaction of the populace。
+200070,Academic debate：,1,1,0,7,80,10,1,The dignitary | came to hold a grand lecture。
+200071,Academic debate：,2,1,0,7,100,5,1,The dignitary | came to hold a grand lecture and praised you for it's success。
+200072,Academic debate：,-1,1,0,7,60,30,1,The dignitary | came to have a grand lecture，but many mistake happened and he dignitary was disatisfied。
+200073,Academic debate：,-2,0,0,0,0,50,1,The dignitary | however some major mistakes happened and the dignitary was extremely disatisfied。
+200080,Business：,1,1,0,6,1200,10,1,Welcomed | as customer。
+200081,Business：,2,1,0,6,1600,5,1,Welcomed | as customer and was praised for the service。
+200082,Business：,-1,1,0,6,800,30,1,Welcomed | as customer，but because of some mistake the customer was disatisfied。
+200083,Business：,-2,1,0,6,400,50,1,Welcomed | as customer，but because of some major mistake the customer was extremey disatisfied。
+200090,Courtesan：,1,1,0,6,1800,10,1,Welcomed | as customer。
+200091,Courtesan：,2,1,0,6,2400,5,1,Welcomed | as customer and was praised for the service。
+200092,Courtesan：,-1,1,0,6,1200,30,1,Welcomed | as customer，but because of some mistake the customer was disatisfied。
+200093,Courtesan：,-2,1,0,6,600,50,1,Welcomed | as customer，but because of some major mistake the customer was extremley disatisfied。
+200100,Offering：,1,1,0,6,900,10,1,Accepted the pilgerim |'s offering。
+200101,Offering：,2,1,0,6,1200,5,1,Accepted the pilgerim |'s offering and was praised for it。
+200102,Offering：,-1,1,0,6,600,30,1,Accepted the pilgerim |'s offering，but because of some mistake the pilgerim was disatisfied。
+200103,Offering：,-2,1,0,6,300,50,1,Accepted the pilgerim |'s offering，but because of some majo mistake the pilgerim was extremley disatisfied。
+200110,Offering：,1,1,0,6,900,10,1,Accepted the Buddhist pilgerim |'s offering。
+200111,Offering：,2,1,0,6,1200,5,1,Accepted the Buddhist pilgerim |'s offering and was praised for it。
+200112,Offering：,-1,1,0,6,600,30,1,Accepted the Buddhist pilgerim |'s offering，but because of some mistake the Buddhist pilgerim was disatisfied。
+200113,Offering：,-2,1,0,6,300,50,1,Accepted the Buddhist pilgerim |'s offering，but because of some majo mistake the Buddhist pilgerim was extremley disatisfied。
+200120,Business：,1,1|2,0|4,6|100501&100510,900|1,10,1,Welcomed | as customer。
+200121,Business：,2,1|2,0|5,6|100501&100510,1200|1,5,1,Welcomed | as customer and was praised for the service。
+200122,Business：,-1,1,0,6,600,30,1,Welcomed | as customer，but because of some mistake the customer was disatisfied。
+200123,Business：,-2,1,0,6,300,50,1,Welcomed | as customer，but because of some major mistake the customer was extremey disatisfied。
+200130,Brewage：,1,2,6,100501&100510,1,10,1,The raw material from | were used for brewing。
+200131,Brewage：,2,2,8,100501&100510,1,5,1,The raw material from | were used for brewing without an issue and the result was satisfying。
+200132,Brewage：,-1,2,4,100501&100510,1,30,1,The raw material from | were used for brewing，but many mistake happened during the process。
+200133,Brewage：,-2,0,0,0,0,50,1,The raw material from | were used for brewing，but some major mistake happened during the process。
+200140,Washing：,1,2,3,3101&3108,2,10,1,The raw material from | were cleaned。
+200141,Washing：,2,2,4,3101&3108,2,5,1,The raw material from | were cleaned without an issue and the result was satisfying。
+200142,Washing：,-1,2,2,3101&3108,2,30,1,The raw material from | were cleaned，but many mistake happened during the process。
+200143,Washing：,-2,0,0,0,0,50,1,The raw material from | were cleaned，but some major mistake happened during the process。
+200150,Refining：,1,2,4,3102&3109,1,10,1,The raw material from | were refined。
+200151,Refining：,2,2,5,3102&3109,1,5,1,The raw material from | were refined without an issue and the result was satisfying。
+200152,Refining：,-1,2,3,3102&3109,1,30,1,The raw material from | were refined，but many mistake happened during the process。
+200153,Refining：,-2,0,0,0,0,50,1,The raw material from | were refined，but some major mistake happened during the process。
+200160,Processing：,1,2,3,3001&3008,2,10,1,The raw material from | were processed。
+200161,Processing：,2,2,4,3001&3008,2,5,1,The raw material from | were processed without an issue and the result was satisfying。
+200162,Processing：,-1,2,2,3001&3008,2,30,1,The raw material from | were processed，but many mistake happened during the process。
+200163,Processing：,-2,0,0,0,0,50,1,The raw material from | were processed，but some major mistake happened during the process。
+200170,Cultivating：,1,2,4,3002&3009,1,10,1,The raw material from | were used to cultivate。
+200171,Cultivating：,2,2,5,3002&3009,1,5,1,The raw material from | were used to cultivate without an issue and the result was satisfying。
+200172,Cultivating：,-1,2,3,3002&3009,1,30,1,The raw material from | used to cultivate，but many mistake happened during the process。
+200173,Cultivating：,-2,0,0,0,0,50,1,The raw material from | were used to cultivate，but some major mistake happened during the process。
+200180,Extracting：,1,2,1,4001&4005&4009&4013&4017&4021&4025&4029&4033&4037&4041&4045&4049&4053&4057&4061&4065&4069&4073&4077&4081&4085&4089&4093,2,10,1,The raw material from | were used for extraction。
+200181,Extracting：,2,2,2,4001&4005&4009&4013&4017&4021&4025&4029&4033&4037&4041&4045&4049&4053&4057&4061&4065&4069&4073&4077&4081&4085&4089&4093,2,5,1,The raw material from | were used for extraction without an issue and the result was satisfying。
+200182,Extracting：,-1,2,0,4001&4005&4009&4013&4017&4021&4025&4029&4033&4037&4041&4045&4049&4053&4057&4061&4065&4069&4073&4077&4081&4085&4089&4093,2,30,1,The raw material from | were used for extraction，but many mistake happened during the process。
+200183,Extracting：,-2,0,0,0,0,50,1,The raw material from | were used for extraction，but some major mistake happened during the process。
+200190,Cultivate：,1,2,1,4002&4006&4010&4014&4018&4022&4026&4030&4034&4038&4042&4046&4050&4054&4058&4062&4066&4070&4074&4078&4082&4086&4090&4094,1,10,1,Picked raw materials from | and did some cultivating。
+200191,Cultivate：,2,2,2,4002&4006&4010&4014&4018&4022&4026&4030&4034&4038&4042&4046&4050&4054&4058&4062&4066&4070&4074&4078&4082&4086&4090&4094,1,5,1,Picked raw materials from | and did some successful cultivating then rewarded handsomely。
+200192,Cultivate：,-1,2,0,4002&4006&4010&4014&4018&4022&4026&4030&4034&4038&4042&4046&4050&4054&4058&4062&4066&4070&4074&4078&4082&4086&4090&4094,1,30,1,Picked raw materials from | and made many mistakes while cultivating。
+200193,Cultivate：,-2,0,0,0,0,50,1,Picked raw materials from | and made some major mistakes while cultivating。
+200200,Extracting：,1,2,3,4201&4208&4215&4222&4229&4236,2,10,1,Raw material from | were used to extract from。
+200201,Extracting：,2,2,4,4201&4208&4215&4222&4229&4236,2,5,1,The raw material from | were used for extraction without an issue and the result was satisfying。
+200202,Extracting：,-1,2,2,4201&4208&4215&4222&4229&4236,2,30,1,The raw material from | were used for extraction，but many mistake happened during the process。
+200203,Extracting：,-2,0,0,0,0,50,1,The raw material from | were used for extraction，but some major mistake happened during the process。
+200210,Cultivate：,1,2,4,4202&4209&4216&4223&4230&4237,1,10,1,Picked raw materials from | and did some cultivating。
+200211,Cultivate：,2,2,5,4202&4209&4216&4223&4230&4237,1,5,1,Picked raw materials from | and did some successful cultivating then rewarded handsomely。
+200212,Cultivate：,-1,2,3,4202&4209&4216&4223&4230&4237,1,30,1,Picked raw materials from | and made many mistakes while cultivating。
+200213,Cultivate：,-2,0,0,0,0,50,1,Picked raw materials from | and made some major mistakes while cultivating。
+200220,Extracting：,1,2,3,3301&3308,2,10,1,Raw material from | were used to extract from。
+200221,Extracting：,2,2,4,3301&3308,2,5,1,The raw material from | were used for extraction without an issue and the result was satisfying。
+200222,Extracting：,-1,2,2,3301&3308,2,30,1,The raw material from | were used for extraction，but many mistake happened during the process。
+200223,Extracting：,-2,0,0,0,0,50,1,The raw material from | were used for extraction，but some major mistake happened during the process。
+200230,Appraise：,1,2,4,3302&3309,1,10,1,Raw material from | were appraised。
+200231,Appraise：,2,2,5,3302&3309,1,5,1,The raw material from | were appraised without an issue and the result was satisfying。
+200232,Appraise：,-1,2,3,3302&3309,1,30,1,The raw material from | were appraised，but many mistake happened during the process。
+200233,Appraise：,-2,0,0,0,0,50,1,The raw material from | were appraised，but some major mistake happened during the process。
+200240,Polishing：,1,2,3,3201&3208,2,10,1,Raw material from | were polished。
+200241,Polishing：,2,2,4,3201&3208,2,5,1,The raw material from | were polished without an issue and the result was satisfying。
+200242,Polishing：,-1,2,2,3201&3208,2,30,1,The raw material from | were polished，but many mistake happened during the process。
+200243,Polishing：,-2,0,0,0,0,50,1,The raw material from | were appraised，but some major mistake happened during the process。
+200250,Carving：,1,2,4,3202&3209,1,10,1,Raw material from | were used for carving。
+200251,Carving：,2,2,5,3202&3209,1,5,1,The raw material from | were used for carving without an issue and the result was satisfying。
+200252,Carving：,-1,2,3,3202&3209,1,30,1,The raw material from | were used for carving，but many mistake happened during the process。
+200253,Carving：,-2,0,0,0,0,50,1,The raw material from | were used for carving，but some major mistake happened during the process。
+200260,Extracting：,1,2,3,3401&3408&3415&3422,2,10,1,Raw material from | were used to extract from。
+200261,Extracting：,2,2,4,3401&3408&3415&3422,2,5,1,The raw material from | were used for extraction without an issue and the result was satisfying。
+200262,Extracting：,-1,2,2,3401&3408&3415&3422,2,30,1,The raw material from | were used for extraction，but many mistake happened during the process。
+200263,Extracting：,-2,0,0,0,0,50,1,The raw material from | were used for extraction，but some major mistake happened during the process。
+200270,Rearing：,1,2,4,3402&3409&3416&3423,1,10,1,Animals from | were used for rearing。
+200271,Rearing：,2,2,5,3402&3409&3416&3423,1,5,1,Animals from | were used for rearing without an issue and the result was satisfying。
+200272,Rearing：,-1,2,3,3402&3409&3416&3423,1,30,1,Animals from | were used for rearing，but many mistake happened during the process。
+200273,Rearing：,-2,0,0,0,0,50,1,Animals from | were used for rearing，but some major mistake happened during the process。
+200280,Business：,1,1|2,0|4,6|100601&100610,900|1,10,1,Welcomed | as customer。
+200281,Business：,2,1|2,0|5,6|100601&100610,1200|1,5,1,Welcomed | as customer and was praised for the service。
+200282,Business：,-1,1,0,6,600,30,1,Welcomed | as customer，but because of some mistake the customer was disatisfied。
+200283,Business：,-2,1,0,6,300,50,1,Welcomed | as customer，but because of some major mistake the customer was extremey disatisfied。
+200290,Tea making：,1,2,6,100601&100610,1,10,1,Raw material from | were used for tea making。
+200291,Tea making：,2,2,8,100601&100610,1,5,1,The raw material from | were used for tea making without an issue and the result was satisfying。
+200292,Tea making：,-1,2,4,100601&100610,1,30,1,The raw material from | were used for tea making，but many mistake happened during the process。
+200293,Tea making：,-2,0,0,0,0,50,1,The raw material from | were used for tea making，but some major mistake happened during the process。
+200300,Pawn store：,1,1,0,6,1500,10,1,The customer | pawned his product。
+200301,Pawn store：,2,1,0,6,2000,5,1,The customer | pawned his product and the merchant praised you for it。
+200302,Pawn store：,-1,1,0,6,1000,30,1,The customer | pawned his product，but because of some mistake the merchant was disatisfied。
+200303,Pawn store：,-2,1,0,6,500,50,1,The customer | pawned his product，but because of some major mistake the merchant was extremely disatisfied。
+200400,Trial：,1,3,60,1,1,10,1,A visting refugee | passed the Trial Peak's test。
+200401,Trial：,2,3,70,1,1,5,1,A visting refugee | easily passed the Trial Peak's test。
+200402,Trial：,-1,3,50,1,1,30,1,A visting refugee | struggled to pass the Trial Peak's test。
+200403,Trial：,-2,0,0,0,0,50,1,A visting refugee | tried to pass the Trial Peak's test but failed。
+200410,Talent：,1,3,60,1,1,10,1,Accepted | who is a ordinary refugee。
+200411,Talent：,2,3,70,1,1,5,1,Accepted | who is a refugee with profound knowledge。
+200412,Talent：,-1,3,50,1,1,30,1,Accepted | who is a refugee who understands a marketplace。
+200413,Talent：,-2,0,0,0,0,50,1,Accepted | who is a refugee，but because of some major mistake the refugee left at night。

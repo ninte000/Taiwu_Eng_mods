@@ -1,0 +1,34 @@
+#,0,1,2,3,4,5,6,7,71,99
+0,Lose,-50,0,0,0,0,0,0,0,Defeat by enemy。
+1,Draw,-50,0,0,0,0,0,0,0,Draw。
+2,Win,50,0,-5,10,0,0,50,0,Combat victory。\n\nThe base success rate of breakthrough cells C_20004+10%C_D。\nThe combat reading progress of all martial art books equipped C_20004+50%C_D。
+3,Retreat,-50,109,0,0,0,0,0,0,Retreat。
+4,AC·EXP,50,0,0,10,0,0,50,0,Actual combat experience。\n\nThe base success rate of breakthrough cells C_20004+10%C_D。\nThe combat reading progress of all martial art books equipped C_20004+50%C_D。
+5,Spar,300,0,0,20,0,0,0,0,Spar with an opponent whose Pure Essence is not lower than yours。\n\nBase rate of breakthrough cells C_20004+20%C_D。
+103,Bully·A,-20,0,0,0,0,0,0,0,Defeat enemy who have fewer companions。
+104,OT·A,20,0,0,0,0,0,0,0,Overturn·amount。Defeat enemy who have more companions。
+201,Bully·M,-50,110,0,-20,0,0,-25,0,Defeat someone under aged and younger than you。\n\nBase success rate of breakthrough cells C_20010-20%C_D。\nThe combat reading progress of all martial art books equipped C_20010-25%C_D。
+202,Bully·P,-50,111,0,-20,0,0,-25,0,Defeat a pregnant enemy。\n\nBase success rate of breakthrough cells C_20010-20%C_D。\nThe combat reading progress of all equipped martial art books C_20010-25%C_D。
+203,Newborn,50,0,20,20,1,0,25,0,Defeats someone older than you while you are under aged。\n\nThe base success rate of breakthrough cells C_20004+20%C_D。\nThe combat reading progress of all martial art books equippedC_20004+25%C_D。
+204,Lion Roar,20,0,20,20,1,0,25,0,Defeat enemy while you are pregnant。\n\nThe base success rate of breakthrough cells C_20004+20%C_D。\nThe combat reading progress of all martial art books equippedC_20004+25%C_D。
+301,Bully·Eq,-20,0,0,-10,0,0,-15,0,Defeat enemy who have weaker equipments。\n\nThe base success rate of breakthrough cells C_20010-10%C_D。\nThe combat reading progress of all martial art books equippedC_20010-15%C_D。
+302,OT·Eq,20,0,20,10,1,0,15,0,Overturn·equip。Defeat enemy who have stronger equipments。The base success rate of breakthrough cells C_20004+10%C_D。\nThe combat reading progress of all martial art books equippedC_20004+15%C_D。
+303,Bully·F,-20,0,0,-10,0,0,-15,0,Defeat enemy who have weaker Force。\n\nThe base success rate of breakthrough cells C_20010-10%C_D。\nThe combat reading progress of all martial art books equippedC_20010-15%C_D。
+304,OT·F,20,0,20,10,1,0,15,0,Overturn·force。Defeat enemy who have stronger Force。\n\nThe base success rate of breakthrough cells C_20004+10%C_D。\nThe combat reading progress of all martial art books equippedC_20004+15%C_D。
+305,Bully·MA,-10,0,0,-10,0,0,-15,0,Casted skills of higher rank than the enemy。\n\nThe base success rate of breakthrough cells C_20010-10%C_D。\nThe combat reading progress of all martial art books equippedC_20010-15%C_D。
+306,OT·MA,10,0,10,10,1,0,15,0,Overturn·martial arts。Only casted skills of lower ranks than the enemy。\n\nThe base success rate of breakthrough cells C_20004+10%C_D。\nThe combat reading progress of all martial art books equippedC_20004+15%C_D。
+307,Bully·P,-30,0,0,-20,0,0,-25,0,Defeat enemy who have less Pure essence。\n\nThe base success rate of breakthrough cells C_20010-20%C_D。\nThe combat reading progress of all martial art books equippedC_20010-25%C_D。
+308,OT·P,30,0,20,20,1,0,25,0,Overturn·Pure Essence。Defeat enemy who have more Pure Essence。\n\nThe base success rate of breakthrough cells C_20004+20%C_D。\nThe combat reading progress of all martial art books equippedC_20004+25%C_D。
+501,Heal,0,0,0,0,0,0,0,0,Heal yourself。
+502,Detox,0,0,0,0,0,0,0,0,Detox yourself。
+601,Exorcism,0,0,-25,0,0,10,0,0,Restore one's mind from XiangShu's Posession。
+602,HoS,0,0,-250,50,0,0,50,0,Heart of sword。Defeat an Avatar of XiangShu！\n\nThe base success rate of breakthrough cells C_20004+50%C_D。\nThe combat reading progress of all martial art books equippedC_20004+50%C_D。
+603,L·Deeds,0,0,0,0,0,2,0,0,Because you defeat local outlaws，you gain local deeds！
+604,L·Deeds,0,0,0,0,0,2,0,0,Because of punished the evil，you gain local deeds！
+701,Cognition,0,0,0,0,0,0,0,0,Inspired during the combat，the combat reading progress of all martial art books equipped increases。
+801,Excalibur,0,0,0,0,0,0,0,0,In the battle，a legendary sword hilt was used，and the mind was greatly crippled. The corruption from Xiangshu is increased greatly.。
+901,L·F Praise,0,0,-5,0,0,0,0,0,Because of the work of Lion Face，you gain more Prestige for defeating the enemy。
+902,L·F Praise,0,0,-10,0,0,0,0,0,Because of the work of Lion Face，you gain more Prestige for defeating the enemy。
+903,L·F Praise,0,0,-15,0,0,0,0,0,Because of the work of Lion Face，you gain more Prestige for defeating the enemy。
+1001,The basic,0,0,0,0,0,0,0,0,Used the most basic skill “Ancestor's Long Fist” during the battle，experience gained increases
+1002,The basic,0,0,100%,0,0,0,0,0,Used the most basic skill “Ancestor's Long Fist” defeat the enemy，prestige gain increases by C_20004100%C_D

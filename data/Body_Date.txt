@@ -1,0 +1,11 @@
+#,0,96,97,98,99,1,2,3,11,12,13,101,102,201,202,203,204,205,206
+0,Chest,100,75,306,100,1,2,3,4,5,6,51101,50084,0,0,0,20,0,When attack switch successfully hit the C_10002ChestC_D，enemy loses C_2000320%C_D progress of Inhale！
+1,Waist,100,75,306,100,7,8,9,10,11,12,51102,50092,0,0,0,0,20,When attack switch successfully hit the C_10002WaistC_D，enemy loses C_2000320%C_D progress of Stance！
+2,Head,100,25,304,100,13,14,15,16,17,18,51106,50083,0,0,3,0,0,When attack switch successfully hit the C_10002HeadC_D，enemy loses C_200033C_D random Style！
+3,Left Arm,50,50,306,20,19,20,21,22,23,24,51108,50085,0,150,0,0,0,When attack switch successfully hit the C_10002Left ArmC_D，enemy loses C_2000350%C_D progress of Attack！
+4,Right Arm,50,50,306,20,25,26,27,28,29,30,51107,50093,0,150,0,0,0,When attack switch successfully hit the C_10002Right ArmC_D，enemy loses C_2000350%C_D progress of Attack！
+5,Left Leg,50,50,307,20,31,32,33,34,35,36,51111,50086,20,0,0,0,0,When attack switch successfully hit the C_10002Left LegC_D，enemy loses C_2000320%C_D progress of Movement！
+6,Right Leg,50,50,307,20,37,38,39,40,41,42,51109,50094,20,0,0,0,0,When attack switch successfully hit the C_10002Right LegC_D，enemy loses C_2000320%C_D progress of Movement！
+7,Mind,0,0,0,0,43,44,45,46,47,48,0,0,0,0,0,0,0,None
+8,Toxin,0,0,0,0,49,50,51,52,53,54,0,0,0,0,0,0,0,None
+9,Whole Body,0,0,0,100,55,56,57,58,59,60,0,0,0,0,0,0,0,None

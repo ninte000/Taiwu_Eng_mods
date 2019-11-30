@@ -1,0 +1,25 @@
+#,0,102,1,2,3,4,5,6,99,101,104
+24,January,「Lesser Cold」,Winter「Lesser Cold·Greater Cold」,The wanderer longs for home when feeling a minor cold，looking to celebrate a family reunion and the end of the year in a major cold,2,2,15,0,1,24,0|1|2|3|4|5|6|7|8|9|10|11|12|13|14
+22,February,「Begins of Spring」,Spring「Begins of Spring·Rain Water」,Plum blossoms are exceedingly marvelous during the start of Spring，red apricot blossoms bloom brightly when rain water falls,0|1|4|5,3,0,1,2,22|102,0|1|2|3|4|5|6|7|8|9|10|11|12|13|14
+20,March,「Insects Awakening」,Spring「Insects Awakening·Spring Equinox」,Spring thunder induce the awakening of insects in the reeds，butterflies dance amongst flowers during Spring Equinox,0|1|4,4,0,0,3,20,0|1|2|3|4|5|6|7|8|9|10|11|12|13|14
+18,April,「Fresh Green」,Spring「Fresh Green·Grain Rain」, Clear and bright winds break the strings of kites，tender tea leaves are as green as jade when grain rains fall,0|1|4,2,0,1,4,18,0|1|2|3|4|5|6|7|8|9|10|11|12|13|14
+16,May,「Begins of Summer」,Summer「Begins of Summer·Lesser Fullness」,Mulberry fruits resembles cherries during the start of Summer，raising silkworms and plowing the fields as the grains buds,0|1|3|5,3,5,0,5,16,0|1|2|3|4|5|6|7|8|9|10|11|12|13|14
+14,June,「Grain in Ear」,Summer「Grain in Ear·Summer Solstice」,With grain in ear，jade green sprouts are sown in the courtyard garden，rice flowers bloom like a field of white during Summer solstice,0|1|3,4,5,1,6,14,0|1|2|3|4|5|6|7|8|9|10|11|12|13|14
+12,July,「Lesser Heat」,Summer「Lesser Heat·Greater Heat」,Winds carrying minor heat compels the crops to ripen soon，appreciating the beauty of red lotuses near the pond in the major heat,0|1|3,2,5,0,7,12,0|1|2|3|4|5|6|7|8|9|10|11|12|13|14
+10,August,「Begins of Autumn」,Autumn「Begins of Autumn·End of Heat」,Cries of the crickets let drowsiness wash over people drowsy during the start of Sutumn，sunflowers unravel open like smiling faces at the end of heat,0|1|3|4|5,3,10,1,8,10|101,0|1|2|3|4|5|6|7|8|9|10|11|12|13|14
+8,September,「White Dew」,Autumn「White Dew·Autumnal Equinox」,Swallows return along with the geese as white dew flocks when Autumn comes，sweet scents of orange osmanthus fills the garden during Autumn equinox,0|1|3|4,4,10,0,9,8,0|1|2|3|4|5|6|7|8|9|10|11|12|13|14
+6,October,「Cold Dew」,Autumn「Cold Dew·First Frost」,Vegetables sprout in the lush green fields as the cold dew comes，reed catkins float about in the entire sky as the frost descends,2|3,2,10,1,10,6,0|1|2|3|4|5|6|7|8|9|10|11|12|13|14
+4,November,「Begins of Winter」,Winter「Begins of Winter·Light Snow」,Good news announces three auspicious omens during the start of Winter，goose feathers flutter during a minor snow,2|5,3,15,0,11,4,0|1|2|3|4|5|6|7|8|9|10|11|12|13|14
+2,December,「Heavy Snow」,Winter「Heavy Snow·Winter Solstice」,Plum trees tremble in the violent winds of heavy snow，auspicious snow foretells a fruitful year when winter solstice comes,2,4,15,1,12,2,0|1|2|3|4|5|6|7|8|9|10|11|12|13|14
+23,January,「Greater Cold」,,,,,,,,,
+21,February,「Rain Water」,,,,,,,,,
+19,March,「Spring Equinox」,,,,,,,,,
+17,April,「Grain Rain」,,,,,,,,,
+15,May,「Lesser Fullness」,,,,,,,,,
+13,June,「Summer Solstice」,,,,,,,,,
+11,July,「Greater Heat」,,,,,,,,,
+9,August,「End of Heat」,,,,,,,,,
+7,September,「Autumnal Equinox」,,,,,,,,,
+5,October,「First Frost」,,,,,,,,,
+3,November,「Light Snow」,,,,,,,,,
+1,December,「Winter Solstice」,,,,,,,,,

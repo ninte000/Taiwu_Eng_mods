@@ -1,0 +1,61 @@
+#,0,1,2,3,4,98,99
+1,Chest·Scratch,6,0,0,0,0,Light External Injury
+2,Chest·Bleeding,12,0,0,1,1,Heavy External Injury
+3,Chest·Fracture,18,0,0,2,2,Critical External Injury
+4,Chest·Bruises,0,6,0,0,30,Light Internal Injury
+5,Chest·Acupoint inactivation,0,12,0,1,31,Heavy Internal Injury
+6,Chest·Broken meridian,0,18,0,2,32,Critical Internal Injury
+7,Waist·Scratch,6,0,1,0,3,Light External Injury
+8,Waist·Bleeding,12,0,1,1,4,Heavy External Injury
+9,Waist·Spilled guts,18,0,1,2,5,Critical External Injury
+10,Waist·Bruises,0,6,1,0,33,Light Internal Injury
+11,Waist·Acupoint inactivation,0,12,1,1,34,Heavy Internal Injury
+12,Waist·Broken meridian,0,18,1,2,35,Critical Internal Injury
+13,Head·Scratch,10,0,2,0,6,Light External Injury
+14,Head·Bleeding,20,0,2,1,7,Heavy External Injury
+15,Head·Fracture,30,0,2,2,8,Critical External Injury
+16,Head·Bruises,0,10,2,0,36,Light Internal Injury
+17,Head·Acupoint inactivation,0,20,2,1,37,Heavy Internal Injury
+18,Head·Broken meridian,0,30,2,2,38,Critical Internal Injury
+19,ArmL·Scratch,4,0,3,0,9,Light External Injury
+20,ArmL·Bleeding,8,0,3,1,10,Heavy External Injury
+21,ArmL·Fracture,12,0,3,2,11,Critical External Injury
+22,ArmL·Bruises,0,4,3,0,39,Light Internal Injury
+23,ArmL·Acupoint inactivation,0,8,3,1,40,Heavy Internal Injury
+24,ArmL·Broken meridian,0,12,3,2,41,Critical Internal Injury
+25,ArmR·Scratch,4,0,4,0,12,Light External Injury
+26,ArmR·Bleeding,8,0,4,1,13,Heavy External Injury
+27,ArmR·Fracture,12,0,4,2,14,Critical External Injury
+28,ArmR·Bruises,0,4,4,0,42,Light Internal Injury
+29,ArmR·Acupoint inactivation,0,8,4,1,43,Heavy Internal Injury
+30,ArmR·Broken meridian,0,12,4,2,44,Critical Internal Injury
+31,LegL·Scratch,4,0,5,0,15,Light External Injury
+32,LegL·Bleeding,8,0,5,1,16,Heavy External Injury
+33,LegL·Fracture,12,0,5,2,17,Critical External Injury
+34,LegL·Bruises,0,4,5,0,45,Light Internal Injury
+35,LegL·Acupoint inactivation,0,8,5,1,46,Heavy Internal Injury
+36,LegL·Broken meridian,0,12,5,2,47,Critical Internal Injury
+37,LegR·Scratch,4,0,6,0,18,Light External Injury
+38,LegR·Bleeding,8,0,6,1,19,Heavy External Injury
+39,LegR·Fracture,12,0,6,2,20,Critical External Injury
+40,LegR·Bruises,0,4,6,0,48,Light Internal Injury
+41,LegR·Acupoint inactivation,0,8,6,1,49,Heavy Internal Injury
+42,LegR·Broken meridian,0,12,6,2,50,Critical Internal Injury
+43,Mental·Feeeling numb,4,0,7,0,21,Light External Injury
+44,Mental·Epilepsy,8,0,7,1,22,Heavy External Injury
+45,Mental·Burning sensation,12,0,7,2,23,Critical External Injury
+46,Mental·Confusion,0,4,7,0,51,Light Internal Injury
+47,Mental·Paranoia,0,8,7,1,52,Heavy Internal Injury
+48,Mental·Psychosis,0,12,7,2,53,Critical Internal Injury
+49,Toxin·Superficial,4,0,8,0,24,Light External Injury
+50,Toxin·Necrosis,8,0,8,1,25,Heavy External Injury
+51,Toxin·Osteomyelitis,12,0,8,2,26,Critical External Injury
+52,Toxin·Dyspnea,0,4,8,0,54,Light Internal Injury
+53,Toxin·Sepsis,0,8,8,1,55,Heavy Internal Injury
+54,Toxin·Hemolysis,0,12,8,2,56,Critical Internal Injury
+55,Whole·Feeling weak,8,0,9,0,27,Light External Injury
+56,Whole·Extreme pain,16,0,9,1,28,Heavy External Injury
+57,Whole·Paralysis,24,0,9,2,29,Critical External Injury
+58,Whole·Bruises,0,8,9,0,57,Light Internal Injury
+59,Whole·Acupoint inactivation,0,16,9,1,58,Heavy Internal Injury
+60,Whole·Broken meridian,0,24,9,2,59,Critical Internal Injury
