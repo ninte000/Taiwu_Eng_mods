@@ -1,22 +1,22 @@
 # Taiwu_Eng_mod
 
-Introduction
+**Introduction**
 
 The Eng mod currently rely heavily on BaseResourceMod, sideloading is possible but "propALLText.txt" will not function, resulting in some untranslated UI.
 
-To install the English Mod, first install the latest "BaseResourceMod" through "Unity Mod Mananger 0.12.2".
+To install the English Mod, first install the latest *"BaseResourceMod"* through *"Unity Mod Mananger 0.12.2"*.
 Then put the data and texture folders directly into the game directory.
 
 
 
-Update History
+**Update History**
 
 Updated for v0.2.6.18
 
 
 
 
-To-Do-List
+**To-Do-List**
 
 1. Initial translation and audit of flavor texts
 
