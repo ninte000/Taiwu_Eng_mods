@@ -11,6 +11,7 @@ Then put the data and texture folders directly into the game directory.
 
 **Update History**
 
+Updated for v0.2.6.19
 Updated for v0.2.6.18
 
 
