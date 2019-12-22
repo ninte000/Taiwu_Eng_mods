@@ -27,6 +27,7 @@ UI_ACTOR_MENU_REMOVE_ITEM_TITLE=Scrap Item
 UI_ACTOR_MENU_REMOVE_ITEM_NUM_INPUT=Enter number of item to be srapped：
 UI_ACTOR_MENU_USE_ITEM_TITLE=Use Item
 UI_ACTOR_MENU_USE_ITEM_NUM_INPUT=Enter number of item to be used：
+UI_ACTOR_MENU_CANT_KICK_IN_STORYSYS=<color=#766E6E>In the middle of the adventure！Cannot remove companions…</color>
 
 ///人物检索界面
 UI_NPC_SEARCH_TITLE=NPC roster
@@ -69,6 +70,10 @@ UI_ACTOR_ATTR_BLO=DIV
 UI_ACTOR_ATTR_REL=PAR
 UI_ACTOR_ATTR_EVE=EVA
 UI_ACTOR_FAME_GOOD_AND_BAD=Mixed
+
+///物品
+UI_ITEM_MUSIC_DAMAGE=Melody damage
+UI_ITEM_MUSIC_DIR=Melody breath
 
 ///功法
 UI_GONGFA=Skill talents
