@@ -1926,7 +1926,7 @@
 941300003,,,-1,（Buying ore…）<color=#4B4B4BFF>（AP cost：1）</color>,1,,TIME&1|FA&1|OATTMAX&403&1000,-1,TIME&1|END&94021&9413&3,0,,0
 941300004,,,-1,（Buying textile…）<color=#4B4B4BFF>（AP cost：1）</color>,1,,TIME&1|FA&1|OATTMAX&404&1000,-1,TIME&1|END&94021&9413&4,0,,0
 941300005,,,-1,（Buying herb…）<color=#4B4B4BFF>（AP cost：1）</color>,1,,TIME&1|FA&1|OATTMAX&405&1000,-1,TIME&1|END&94021&9413&5,0,,0
-941400001,,,-1,（Chanting to bless…）<color=#4B4B4BFF>（AP cost：1）</color>,1,,TIME&5,9551,TIME&5|END&94021&9414,0,,0
+941400001,,,-1,（Chanting to bless…）<color=#4B4B4BFF>（AP cost：5）</color>,1,,TIME&5,9551,TIME&5|END&94021&9414,0,,0
 941500001,,,-1,（Diagnosis…）<color=#4B4B4BFF>（AP cost：3）</color>,1,,TIME&3,-1,TIME&3|END&94021&9415,0,,0
 941600001,,,-1,（Predict his future…）<color=#4B4B4BFF>（AP cost：3）</color>,1,,TIME&3,9555,TIME&3|END&94021&9416,0,,0
 941700001,,,-1,（Treasure Collecting…）<color=#4B4B4BFF>（AP cost：3）</color>,1,,TIME&3|FA&3,-1,TIME&3|END&94021&9417,0,,0

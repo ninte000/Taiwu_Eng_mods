@@ -23,7 +23,7 @@
 22,YuanShan Disciple,0,0,0,0,0,Amount,·Action：C_20002Coming SoonC_D\n·Live：C_20002Coming SoonC_D\n·Complete：C_20002Coming SoonC_D
 23,XuanNyu Disciple,0,0,0,0,0,Amount,·Action：C_20002Coming SoonC_D\n·Live：C_20002Coming SoonC_D\n·Complete：C_20002Coming SoonC_D
 24,Vajrayana Disciple,0,0,0,0,0,Amount,·Action：C_20002Coming SoonC_D\n·Live：C_20002Coming SoonC_D\n·Complete：C_20002Coming SoonC_D
-25,Five Immotals Disciple,0,0,0,0,0,Amount,·Action：C_20002Coming SoonC_D\n·Live：C_20002Coming SoonC_D\n·Complete：C_20002Coming SoonC_D
+25,Five Immortals Disciple,0,0,0,0,0,Amount,·Action：C_20002Coming SoonC_D\n·Live：C_20002Coming SoonC_D\n·Complete：C_20002Coming SoonC_D
 26,JieQing Disciple,0,0,0,0,0,Amount,·Action：C_20002Coming SoonC_D\n·Live：C_20002Coming SoonC_D\n·Complete：C_20002Coming SoonC_D
 27,Blood Hou Disciple,0,0,0,0,0,Amount,·Action：C_20002Coming SoonC_D\n·Live：C_20002Coming SoonC_D\n·Complete：C_20002Coming SoonC_D
 28,WuDang Elder,0,0,0,0,0,Seats,·Action：C_20002Coming SoonC_D\n·Live：C_20002Coming SoonC_D\n·Complete：C_20002Coming SoonC_D
