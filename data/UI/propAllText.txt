@@ -340,6 +340,8 @@ UI_SAMSARA_BORN_SUCCESS_TIP={0} reincarnated to become the child of {1} and {2}�
 UI_SAMSARA_BORN_FAIL_TITLE=Reincarnation Failed
 UI_SAMSARA_BORN_FAIL_TIP=No suitable female，can not reincarnate…
 
+//战斗
+UI_KILL_INTENTION_TITLE=Killing opportunity：{0}
 
 //武林大会
 WULINDAHUI_PREPAR_TURN_IMAGE=The World Martial Congress is starting in 10 months！All sects are donating and preparing，the sect made the most contribution to the congress will become the host……
